@@ -13,12 +13,13 @@
 
 ## _And More...._
 
+* Pearl Boxes Drop From All Monsters
 * 750 Pearls, 200 Loyalty, 100 Cron Stone Every Hour (Limited 12 Times Per Day)
+* Maximum Pet Count: 9&#x20;
 * Extra Life Mastery Bonuses/Bracket
 * Custom Life Items
 * Custom Attendance Calendar
 * Custom Max Weight Pet (Cash Shop)&#x20;
-* Maximum Pet Count: 9&#x20;
 * Custom Gears
   1. Fallen God's Gloves
   2. Fallen God's Shoes
