@@ -7,7 +7,7 @@
 You can easily reach to us by create a support ticket in [**#ticket-support**](https://discord.com/channels/922765651091791872/1014583206349131919) **** for:
 
 * Report a Bug/Issue
-* Report a Player (Scamming / Cheating / Insulting / Micros / Bots)
+* Report a Player (Scamming / Cheating / Insulting / Micros / Bots / Abusing Exploits)
 * Suggestion
 * Support
 * General Questions

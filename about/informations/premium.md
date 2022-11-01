@@ -19,17 +19,16 @@
 * Premium Exclusive Attendance Rewards
 * Auto Buy +10% Silver Bonus
 
-## Extra Rewards (Obtain When Used Premium Item In Game)
+## _Extra Rewards_
 
-#### 30 Days Premium
+You will obtain the rewards after you used the Premium item in game
 
-* (T9) Horse Emblem: Dream Arduanatt (Pegasus)
-* Tier 4 Fairy
-* Advice of Valks(+250)&#x20;
-
-#### 90 Days Premium
-
-* (T9) Horse Emblem: Dream Diné (Unicorn)
-* Tier 4 Fairy
-* Advice of Valks(+350)
-* Advice of Valks(+250) x 2
+* _**30 Days Premium Pack**_
+  1. (T9) Horse Emblem: Dream Arduanatt (Pegasus)
+  2. Tier 4 Fairy
+  3. Advice of Valks(+250)&#x20;
+* _**90 Days Premium Pack**_
+  1. (T9) Horse Emblem: Dream Diné (Unicorn)
+  2. Tier 4 Fairy
+  3. Advice of Valks(+350)
+  4. Advice of Valks(+250) x 2

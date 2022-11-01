@@ -18,3 +18,7 @@
 * [Patch Notes](server-developments/patch-notes/README.md)
   * [19 October 2022](server-developments/patch-notes/19-october-2022.md)
 * [Known Bugs/Issues](server-developments/known-bugs-issues.md)
+
+## Gameplay
+
+* [Start You Adventure At MoonBD](gameplay/start-you-adventure-at-moonbd.md)
