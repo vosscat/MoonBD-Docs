@@ -23,7 +23,6 @@
 * Custom Gears
   1. Fallen God's Gloves
   2. Fallen God's Shoes
-  3. Blackstar Sub Weapon
 * Custom Accessories
   1. Moonlight Accessories Set
      * [x] Moonlight Necklace
