@@ -19,15 +19,16 @@
   * [19 October 2022](server-developments/patch-notes/19-october-2022.md)
 * [Known Bugs/Issues](server-developments/known-bugs-issues.md)
 
-## Gameplay
-
-* [Start You Adventure At MoonBD](gameplay/start-you-adventure-at-moonbd.md)
-
 ***
 
-* [Page 1](page-1.md)
+* [Start You Adventure At MoonBD](start-you-adventure-at-moonbd.md)
 
 ## Events
 
 * [Boss Event](events/boss-event.md)
 * [PvP Tournament](events/pvp-tournament.md)
+
+## Wiki
+
+* [Auto Buy](wiki/auto-buy.md)
+* [Boss Calendar](wiki/boss-calendar.md)
