@@ -20,7 +20,7 @@ Before contacting us here what you can do:
 6. Delete bin64 if you have and extract it inside game folder.
 7. Restart your computer then start game launcher and try to start the game.
 8. If you still have the problem, close launcher again if it is still running in system tray.
-9. Go into **** [**discord**](discord.md) **** and see _**#manual-patch**_ channel.
+9. Go into **** [**discord**](../discord.md) **** and see _**#manual-patch**_ channel.
 10. Download latest manual patch and extract paz files inside paz folder inside game folder.
 11. Start launcher and try to start the game.
 12. If you stil having problems, contact us through discord with the logs inside Log folder inside game folder (make zip).
@@ -35,7 +35,7 @@ Before contacting us here what you can do:
 
 ## **A player is trashtalking/insulting me, what can i do?**
 
-* Chill out, take a screenshot and send it through discord with a DM to one of the GMs then you can block that player or you can create a player [_report ticket_](discord.md#support-ticket-system).
+* Chill out, take a screenshot and send it through discord with a DM to one of the GMs then you can block that player or you can create a player [_report ticket_](../discord.md#support-ticket-system).
 
 ## **I'm getting the "Unable to start the game due to authentication failure" error. How can i fix it ?**
 
