@@ -6,11 +6,12 @@
 
 You can easily reach to us by create a support ticket in [**#ticket-support**](https://discord.com/channels/922765651091791872/1014583206349131919) **** for:
 
-* Donation
-* Report a Player
+* Report a Bug/Issue
+* Report a Player (Scamming / Cheating / Insulting / Micros / Bots)
 * Suggestion
 * Support
 * General Questions
+* Donation
 
 After you created a ticket, our staff team will reply to you ASAP.
 
