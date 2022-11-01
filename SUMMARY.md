@@ -3,11 +3,14 @@
 ## About
 
 * [Introduction](README.md)
-* [Information](about/information.md)
-* [Discord](about/discord.md)
-* [Premium](about/premium.md)
-* [Managements](about/managements.md)
-* [FAQ](about/faq.md)
+* [Informations](about/informations/README.md)
+  * [Rates](about/informations/rates.md)
+  * [Features](about/informations/features.md)
+  * [Discord](about/informations/discord.md)
+  * [Premium](about/informations/premium.md)
+  * [Managements](about/informations/managements.md)
+* [FAQ](about/faq/README.md)
+  * [Frequently Asked Questions](about/faq/frequently-asked-questions.md)
   * [Common Errors and Fixes](about/faq/common-errors-and-fixes.md)
 
 ## Server Developments

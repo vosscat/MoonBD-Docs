@@ -1,6 +1,6 @@
 # Discord
 
-<figure><img src="../.gitbook/assets/Discord-#7289DA.svg" alt="https://discord.gg/SbkeRPW7CE"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Discord-#7289DA.svg" alt="https://discord.gg/SbkeRPW7CE"><figcaption></figcaption></figure>
 
 ### _Support **Ticket System**_
 
