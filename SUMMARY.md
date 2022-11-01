@@ -7,7 +7,7 @@
 * [Discord](about/discord.md)
 * [Premium](about/premium.md)
 * [Managements](about/managements.md)
-* [FAQ](about/faq/README.md)
+* [FAQ](about/faq.md)
   * [Common Errors and Fixes](about/faq/common-errors-and-fixes.md)
 
 ## Server Developments
