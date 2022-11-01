@@ -26,7 +26,6 @@ We are doing Boss Event every Sunday with normal and custom bosses. Announcement
    * Khan Reward Bundle (Tier 3) x1-2
 3. _**Custom Boss Drop**_**:**
    * Moon Cash (Web Shop Currency)
-   * [Shining Alchemy Stones](https://bdocodex.com/us/item/45232/) (All 3 Kinds)
    * [Vell's Heart](https://bdocodex.com/us/item/45332/)
    * [Khan Reward Bundle](https://bdocodex.com/us/item/755041/) (Tier 3)
    * [Inverted Heart of Garmoth](https://bdocodex.com/us/item/9771/)
