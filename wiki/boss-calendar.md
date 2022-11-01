@@ -31,3 +31,9 @@ Boss Calendar Spreadsheet
 <figure><img src="../.gitbook/assets/QQ截图20221101214154.png" alt=""><figcaption><p><strong>Configure to your like</strong></p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/QQ截图20221101214428.png" alt=""><figcaption><p><strong>Get notified when/before bosses spawn</strong></p></figcaption></figure>
+
+### _Discord Bot Command_
+
+> Use `..boss` command in MoonBD discord for boss timer.
+
+<figure><img src="../.gitbook/assets/QQ截图20221101220122.png" alt=""><figcaption></figcaption></figure>
