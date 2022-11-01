@@ -24,7 +24,7 @@ After you created a ticket, our staff team will reply to you ASAP.
 * Download [**Bin64.zip**](https://drive.google.com/file/d/1yvp2cZ8E7--wbuq9LoOq4goKNwyNbgOK/view?usp=sharing) **** and extract into the MoonBD folder for solving the Authentication Error.
 * Download **** [**resource.ini**](https://drive.google.com/file/d/1RrMdgwPaa-CF3wYkEjjZ83GZRTHlVS7g/view?usp=sharing) **** and copy to MoonBD and bin64 folder for solving “Now Processing” error.
 
-### _Commands_
+### _Bot Commands_
 
 You can use these commands in **#botcommands** channel.
 

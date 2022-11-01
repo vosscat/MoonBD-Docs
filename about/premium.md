@@ -23,13 +23,13 @@
 
 #### 30 Days Premium
 
-* One Free T9 Horse
+* (T9) Horse Emblem: Dream Arduanatt (Pegasus)
 * Tier 4 Fairy
 * Advice of Valks(+250)&#x20;
 
 #### 90 Days Premium
 
-* (T9) Horse Emblem: Dream Diné
+* (T9) Horse Emblem: Dream Diné (Unicorn)
 * Tier 4 Fairy
 * Advice of Valks(+350)
 * Advice of Valks(+250) x 2
