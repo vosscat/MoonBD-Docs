@@ -21,14 +21,15 @@
 * Custom Attendance Calendar
 * Custom Max Weight Pet (Cash Shop)&#x20;
 * Custom Gears
-  1. Fallen God's Gloves
-  2. Fallen God's Shoes
+  1. [Fallen God's Gloves](../../wiki/custom-gears/defense-armors/fallen-gods-gloves.md)
+  2. [Fallen God's Shoes](../../wiki/custom-gears/defense-armors/fallen-gods-shoes.md)
+  3. [Labreska's Helmet](../../wiki/custom-gears/defense-armors/labreskas-helmet.md)
 * Custom Accessories
-  1. Moonlight Accessories Set
-     * [x] Moonlight Necklace
-     * [x] Moonlight Belt
-     * [x] Moonlight Earring
-     * [x] Moonlight Ring
+  1. [Moonlight Accessories Set](../../wiki/custom-accessories/moonlight-accessories-set/)
+     * [x] [Moonlight Necklace](../../wiki/custom-accessories/moonlight-accessories-set/moonlight-necklace.md)
+     * [x] [Moonlight Belt](../../wiki/custom-accessories/moonlight-accessories-set/moonlight-belt.md)
+     * [x] [Moonlight Earring](../../wiki/custom-accessories/moonlight-accessories-set/moonlight-earring.md)
+     * [x] [Moonlight Ring](../../wiki/custom-accessories/moonlight-accessories-set/moonlight-ring.md)
   2. Sunlight Accessories Set (WIP)
      * [ ] Sunlight Necklace (WIP)
      * [ ] Sunlight Belt (WIP)
