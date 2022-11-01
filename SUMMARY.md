@@ -15,9 +15,11 @@
 
 ## Developments
 
-* [Patch Notes](developments/patch-notes/README.md)
-  * [19 October 2022](developments/patch-notes/19-october-2022.md)
-* [Known Bugs/Issues](developments/known-bugs-issues.md)
+* [Patch Notes](server-developments/patch-notes/README.md)
+  * [19 October 2022](server-developments/patch-notes/19-october-2022.md)
+  * [14 October 2022](developments/patch-notes/14-october-2022.md)
+  * [28 September 2022](developments/patch-notes/28-september-2022.md)
+* [Known Bugs/Issues](server-developments/known-bugs-issues.md)
 
 ## Events
 
@@ -26,7 +28,7 @@
 
 ## Wiki
 
-* [Start You Adventure At MoonBD](wiki/start-you-adventure-at-moonbd.md)
+* [Start You Adventure At MoonBD](start-you-adventure-at-moonbd.md)
 * [Auto Buy](wiki/auto-buy.md)
 * [Boss Calendar](wiki/boss-calendar.md)
 * [Custom Life Items](wiki/custom-life-items/README.md)
@@ -42,3 +44,4 @@
   * [Gathering](wiki/lifeskill-mastery-bonus/gathering.md)
   * [Hunting](wiki/lifeskill-mastery-bonus/hunting.md)
   * [Sailing](wiki/lifeskill-mastery-bonus/sailing.md)
+* [Teleport Scroll Locations](wiki/teleport-scroll-locations.md)

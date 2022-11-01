@@ -34,6 +34,5 @@
      * [ ] Sunlight Belt (WIP)
      * [ ] Sunlight Earring (WIP)
      * [ ] Sunlight Ring (WIP)
-  3. Starlight Ring (WIP)
 
 ..and lots of benefits with [**MoonBD Premium**](premium.md)!
