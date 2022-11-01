@@ -36,7 +36,7 @@
 * [Custom Accessories](wiki/custom-accessories/README.md)
   * [Moonlight Accessories Set](wiki/custom-accessories/moonlight-accessories-set.md)
 * [Custom Gears](wiki/custom-gears/README.md)
-  * [Fallen God's Set](wiki/custom-gears/fallen-gods-set.md)
+  * [Fallen God's Set](wiki/custom-gears/fallen-god-set.md)
 * [Daily Rewards](wiki/daily-rewards.md)
 * [Daily Attendance Rewards](wiki/daily-attendance-rewards.md)
 * [Lifeskill Mastery Bonus](wiki/lifeskill-mastery-bonus/README.md)
