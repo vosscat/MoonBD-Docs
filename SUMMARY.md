@@ -16,10 +16,6 @@
 
 ## Developments
 
-* [Patch Notes](server-developments/patch-notes/README.md)
-  * [19 October 2022](server-developments/patch-notes/19-october-2022.md)
-  * [14 October 2022](developments/patch-notes/14-october-2022.md)
-  * [28 September 2022](developments/patch-notes/28-september-2022.md)
 * [Known Bugs/Issues](server-developments/known-bugs-issues.md)
 
 ## Events
