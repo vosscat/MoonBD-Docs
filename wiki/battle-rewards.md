@@ -1,6 +1,6 @@
 # Battle Rewards
 
-## _Red Battlefield_
+__
 
 {% tabs %}
 {% tab title="Red Battlefield" %}
