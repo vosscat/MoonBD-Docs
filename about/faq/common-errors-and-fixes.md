@@ -1,5 +1,13 @@
 # Common Errors and Fixes
 
+{% hint style="success" %}
+### _**Necessary files for solving problems before/after playing MoonBD**_
+
+* Download **** [**AIO Runtime Pack**](https://drive.google.com/file/d/1kPBubay0L5OBCDIe4FjoD90sqcavKs2K/view?usp=sharing) **** to avoid runtime,d3d9.dll and other .dll errors.
+* Download [**Bin64.zip**](https://drive.google.com/file/d/1yvp2cZ8E7--wbuq9LoOq4goKNwyNbgOK/view?usp=sharing) **** and extract into the MoonBD folder for solving the Authentication Error.
+* Download **** [**resource.ini**](https://drive.google.com/file/d/1RrMdgwPaa-CF3wYkEjjZ83GZRTHlVS7g/view?usp=sharing) **** and copy to MoonBD and bin64 folder for solving “Now Processing” error.
+{% endhint %}
+
 <details>
 
 <summary>Authentication Error</summary>
