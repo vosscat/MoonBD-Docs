@@ -1,7 +1,7 @@
 # Fughar Item Exchange
 
 {% hint style="success" %}
-&#x20;You can find Fughar in every city/town and exchange items with him.
+You can find Fughar in every city/town and exchange items with him.
 {% endhint %}
 
 > Fughar is your best friend.
@@ -58,10 +58,44 @@
 | [Remnant of the Rift](https://bdocodex.com/us/item/43786/) x 4 | >> | Blackstar Main Weapon Box      |
 | [Remnant of the Rift](https://bdocodex.com/us/item/43786/) x 4 | >> | Blackstar Awakening Weapon Box |
 | [Remnant of the Rift](https://bdocodex.com/us/item/43786/) x 4 | >> | Blackstar Sub Weapon Box       |
+| Quturan's Left Lung x 1                                        | >> | La Orzeca Helmet Box           |
+| Quturan's Right Lung x 1                                       | >> | La Orzeca Armor Box            |
 {% endtab %}
 
 {% tab title="Misc" %}
-
+| Items                            |   |                                       |
+| -------------------------------- | - | ------------------------------------- |
+| Rift's Fragment x 5              | > | Rift's Echo                           |
+| Manshaum Voodoo Dool             | > | Narc Magic Sealing Stone Bundle       |
+| Garmoth's Scale                  | > | Dragon Scale Fossil                   |
+| Fairy Powder x 100               | > | Restores 3 Energy                     |
+| Fairy Powder x 600               | > | Restores 20 Energy                    |
+| Red Seal x 1                     | > | Caphras Stone Bundle                  |
+| Red Seal x 80                    | > | Main Weapon Exchange Coupon           |
+| Red Seal x 80                    | > | Awk Weapon Exchange Coupon            |
+| Red Seal x 80                    | > | Sub-Weapon Exchange Coupon            |
+| Red Seal x 30                    | > | Remnants of the Rift                  |
+| Red Seal x 50                    | > | Rebellious Spirit Crystal             |
+| Caphras Stone x 5000             | > | Black Spirit Crystal                  |
+| Golen's Heart Fragment x 300     | > | Black Essence                         |
+| Abyssal Ash x 1000               | > | Red Essence                           |
+| Tuvala Ore x 3000                | > | Supreme Alchemy Tool                  |
+| Tuvala Ore x 3000                | > | Supreme Cooking Utensil               |
+| Mysterious Catalyst x 200        | > | Supreme Alchemy Tool                  |
+| Witch's Delicacy x 200           | > | Supreme Cooking Utensil               |
+| Mystical Spirit Powder x 10      | > | Alchemy Stone Shard                   |
+| Sea Monster's Spirit Pouch x 20  | > | Starlight Powder                      |
+| Resplendent Medal of Honor x 50  | > | Black Magic Crystal - Carnage         |
+| Resplendent Medal of Honor x 100 | > | \[Guild]Registration: Cadria Elephant |
+| Resplendent Medal of Honor x 20  | > | Ancient Spirit's Crystal - Swiftness  |
+| Resplendent Medal of Honor x 20  | > | Ancient Spirit's Crystal - Valor      |
+| Resplendent Medal of Honor x 20  | > | Ancient Spirit's Crystal - Viper      |
+| Resplendent Medal of Honor x 2   | > | Blue Whale Oil                        |
+| Resplendent Medal of Honor x 2   | > | Blue Whale Tendon                     |
+| Resplendent Medal of Honor x 2   | > | Fugitive Khalk's Skin                 |
+| Resplendent Medal of Honor x 2   | > | Fugitive Khalk's Horn                 |
+| Resplendent Medal of Honor x 1   | > | \[Event] Caphras Stone Bundle         |
+| Caphras Stone x 200              | > | Kydict's Heirloom x 1                 |
 {% endtab %}
 
 {% tab title="Pearls" %}
