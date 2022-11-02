@@ -1,9 +1,15 @@
 # Battle Rewards
 
-## _Red BattlefieldTier 4 Nodes_
+## _Red Battlefield_
 
 {% tabs %}
+{% tab title="Red Battlefield" %}
+
+{% endtab %}
+
 {% tab title="Node War" %}
+## _Tier 4 Nodes_
+
 * <mark style="color:green;">**Win**</mark>: Burning Inspiration Reward x 5
 * <mark style="color:red;">**Lose**</mark>: Burning Inspiration Reward x 4
 * <mark style="color:orange;">**Draw**</mark>: Burning Inspiration Reward x 3
