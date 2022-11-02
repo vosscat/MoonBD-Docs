@@ -17,8 +17,8 @@
 * 750 Pearls, 200 Loyalty, 100 Cron Stone Every Hour (Limited 12 Times Per Day)
 * Maximum Pet Count: 9&#x20;
 * Extra Life [Mastery Bonuses/Bracket](../../wiki/lifeskill-mastery-bonus/)
-* Custom Life Items
-* Custom Attendance Calendar
+* [Custom Life Items](../../wiki/custom-items/)
+* [Custom Attendance Calendar](../../wiki/daily-attendance-rewards.md)
 * Custom Max Weight Pet (Cash Shop)&#x20;
 * Custom Gears
   1. [Fallen God's Gloves](../../wiki/custom-gears/defense-armors/fallen-gods-gloves.md)
