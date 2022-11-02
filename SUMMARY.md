@@ -25,11 +25,13 @@
 
 * [Boss Event](events/boss-event.md)
 * [PvP Tournament](events/pvp-tournament.md)
+* [Redeem Code](events/redeem-code.md)
 
 ## Wiki
 
 * [Start You Adventure At MoonBD](start-you-adventure-at-moonbd.md)
 * [Auto Buy](wiki/auto-buy.md)
+* [Battle Rewards](wiki/battle-rewards.md)
 * [Boss Calendar](wiki/boss-calendar.md)
 * [Custom Accessories](wiki/custom-accessories/README.md)
   * [Moonlight Accessories Set](wiki/custom-accessories/moonlight-accessories-set/README.md)
@@ -53,10 +55,10 @@
   * [Alustin's Alchemy Tool](wiki/custom-items/alustins-alchemy-tool.md)
 * [Daily Rewards](wiki/daily-rewards.md)
 * [Daily Attendance Rewards](wiki/daily-attendance-rewards.md)
+* [Fughar Item Exchange](wiki/fughar-item-exchange.md)
 * [Lifeskill Mastery Bonus](wiki/lifeskill-mastery-bonus/README.md)
   * [Fishing](wiki/lifeskill-mastery-bonus/fishing.md)
   * [Gathering](wiki/lifeskill-mastery-bonus/gathering.md)
   * [Hunting](wiki/lifeskill-mastery-bonus/hunting.md)
   * [Sailing](wiki/lifeskill-mastery-bonus/sailing.md)
-* [Battle Rewards](wiki/battle-rewards.md)
 * [Teleport Scroll Locations](wiki/teleport-scroll-locations.md)
