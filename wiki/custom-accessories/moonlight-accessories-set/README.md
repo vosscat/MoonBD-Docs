@@ -1,8 +1,10 @@
 # Moonlight Accessories Set
 
-<figure><img src="../../../.gitbook/assets/moonlight9.png" alt=""><figcaption></figcaption></figure>
+* ![](../../../.gitbook/assets/neck.png) [Moonlight Necklace](moonlight-necklace.md)
+* ![](<../../../.gitbook/assets/belt (1).png>) [Moonlight Belt](moonlight-belt.md)
+* ![](../../../.gitbook/assets/earring.png) [Moonlight Earring](moonlight-earring.md)
+* ![](../../../.gitbook/assets/ring.png) [Moonlight Ring](moonlight-ring.md)
 
-* [Moonlight Necklace](moonlight-necklace.md)
-* [Moonlight Belt](moonlight-belt.md)
-* [Moonlight Earring](moonlight-earring.md)
-* [Moonlight Ring](moonlight-ring.md)
+
+
+<figure><img src="../../../.gitbook/assets/moonlight9.png" alt=""><figcaption></figcaption></figure>

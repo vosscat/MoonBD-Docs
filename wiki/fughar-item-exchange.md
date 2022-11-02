@@ -8,58 +8,58 @@ You can find Fughar in every city/town and exchange items with him.
 
 {% tabs %}
 {% tab title="Advice of Valks" %}
-| Items                                                                               |    |                        |
-| ----------------------------------------------------------------------------------- | -- | ---------------------- |
-| [Dragon Scale Fossil](https://bdocodex.com/us/item/44364/) x 1000                   | >> | Advice of Valks (+80)  |
-| [Dragon Scale Fossil](https://bdocodex.com/us/item/44364/) x 2500                   | >> | Advice of Valks (+110) |
-| [Black Stone (Armor)](https://bdocodex.com/us/item/16002/) x 500                    | >> | Advice of Valks (+40)  |
-| [Black Stone (Armor)](https://bdocodex.com/us/item/16002/) x 1000                   | >> | Advice of Valks (+50)  |
-| [Black Stone (Armor)](https://bdocodex.com/us/item/16002/) x 1500                   | >> | Advice of Valks (+60)  |
-| [Black Stone (Weapon)](https://bdocodex.com/us/item/16001/) x 500                   | >> | Advice of Valks (+40)  |
-| [Black Stone (Weapon)](https://bdocodex.com/us/item/16001/) x 1000                  | >> | Advice of Valks (+50)  |
-| [Black Stone (Weapon)](https://bdocodex.com/us/item/16001/) x 1500                  | >> | Advice of Valks (+60)  |
-| [Concentrated Magical Black Gem](https://bdocodex.com/us/item/4987/) x 1500         | >> | Advice of Valks (+100) |
-| [Concentrated Magical Black Gem](https://bdocodex.com/us/item/4987/) x 4000         | >> | Advice of Valks (+150) |
-| [Red Seal](https://bdocodex.com/us/item/450/) x 80                                  | >> | Advice of Valks (+80)  |
-| [Red Seal](https://bdocodex.com/us/item/450/) x 110                                 | >> | Advice of Valks (+100) |
-| [Red Seal](https://bdocodex.com/us/item/450/) x 220                                 | >> | Advice of Valks (+220) |
-| [Resplendent Medal of Honor](https://bdocodex.com/us/item/15692/) x 10              | >> | Advice of Valks (+100) |
-| [Resplendent Medal of Honor](https://bdocodex.com/us/item/15692/) x 60              | >> | Advice of Valks (+200) |
-| [Resplendent Medal of Honor](https://bdocodex.com/us/item/15692/) x 350             | >> | Advice of Valks (+400) |
-| [Ancient Sherekhan's Panacea](https://bdocodex.com/us/item/40706/) x 1              | >> | Advice of Valks (+150) |
-| [Ancient Ron's Tintinnabulum](https://bdocodex.com/us/item/40709/) x 1              | >> | Advice of Valks (+150) |
-| [Ancient Ash Halfmoon Kagtunak](https://bdocodex.com/us/item/40710/) x 1            | >> | Advice of Valks (+150) |
-| [Ancient Narc's Crimson Tear](https://bdocodex.com/us/item/40708/) x 1              | >> | Advice of Valks (+150) |
-| [Ancient Markthanan's Gland](https://bdocodex.com/us/item/40711/) x 1               | >> | Advice of Valks (+150) |
-| [Archaeologist's Map Piece](https://bdocodex.com/us/item/44412/) x 1                | >> | Advice of Valks (+130) |
-| [Archaeologist's Map Piece](https://bdocodex.com/us/item/44413/) x 1                | >> | Advice of Valks (+130) |
-| [Archaeologist's Map Piece](https://bdocodex.com/us/item/44414/) x 1                | >> | Advice of Valks (+130) |
-| [Archaeologist's Map Piece](https://bdocodex.com/us/item/44415/) x 1                | >> | Advice of Valks (+130) |
-| [Lafi Bedmountain's Upgrade Compass Parts](https://bdocodex.com/us/item/44416/) x 1 | >> | Advice of Valks (+120) |
-| [Lafi Bedmountain's Upgrade Compass Parts](https://bdocodex.com/us/item/44417/) x 1 | >> | Advice of Valks (+170) |
-| [Lafi Bedmountain's Upgrade Compass Parts](https://bdocodex.com/us/item/44418/) x 1 | >> | Advice of Valks (+250) |
+| Items                                                                                                        |  Exchange For ↓                                                                            |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| <img src="../.gitbook/assets/00044364.png" alt="" data-size="line"> Dragon Scale Fossil x 1000               | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+80)  |
+| <img src="../.gitbook/assets/00044364.png" alt="" data-size="line"> Dragon Scale Fossil x 2500               | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+110) |
+| <img src="../.gitbook/assets/00000007.png" alt="" data-size="line"> Black Stone (Armor) x 500                | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+40)  |
+| <img src="../.gitbook/assets/00000007.png" alt="" data-size="line"> Black Stone (Armor) x 1000               | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+50)  |
+| <img src="../.gitbook/assets/00000007.png" alt="" data-size="line"> Black Stone (Armor) x 1500               | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+60)  |
+| <img src="../.gitbook/assets/00000008.png" alt="" data-size="line"> Black Stone (Weapon) x 500               | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+40)  |
+| <img src="../.gitbook/assets/00000008.png" alt="" data-size="line"> Black Stone (Weapon) x 1000              | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+50)  |
+| <img src="../.gitbook/assets/00000008.png" alt="" data-size="line"> Black Stone (Weapon) x 1500              | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+60)  |
+| <img src="../.gitbook/assets/00004987.png" alt="" data-size="line"> Concentrated Magical Black Gem x 1500    | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+100) |
+| <img src="../.gitbook/assets/00004987.png" alt="" data-size="line"> Concentrated Magical Black Gem x 4000    | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+150) |
+| <img src="../.gitbook/assets/00000450.png" alt="" data-size="line"> Red Seal x 80                            | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+80)  |
+| <img src="../.gitbook/assets/00000450.png" alt="" data-size="line"> Red Seal x 110                           | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+100) |
+| <img src="../.gitbook/assets/00000450.png" alt="" data-size="line"> Red Seal x 220                           | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+220) |
+| <img src="../.gitbook/assets/00015692.png" alt="" data-size="line"> Resplendent Medal of Honor x 10          | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+100) |
+| <img src="../.gitbook/assets/00015692.png" alt="" data-size="line"> Resplendent Medal of Honor x 60          | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+200) |
+| <img src="../.gitbook/assets/00015692.png" alt="" data-size="line"> Resplendent Medal of Honor x 350         | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+400) |
+| <img src="../.gitbook/assets/00040706.png" alt="" data-size="line"> Ancient Sherekhan's Panacea              | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+150) |
+| <img src="../.gitbook/assets/00040709.png" alt="" data-size="line"> Ancient Ron's Tintinnabulum              | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+150) |
+| <img src="../.gitbook/assets/00040710.png" alt="" data-size="line"> Ancient Ash Halfmoon Kagtunak            | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+150) |
+| <img src="../.gitbook/assets/00040708.png" alt="" data-size="line"> Ancient Narc's Crimson Tear              | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+150) |
+| <img src="../.gitbook/assets/00040711.png" alt="" data-size="line"> Ancient Markthanan's Gland               | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+150) |
+| <img src="../.gitbook/assets/00044412.png" alt="" data-size="line"> Archaeologist's Map Piece                | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+130) |
+| <img src="../.gitbook/assets/00044413.png" alt="" data-size="line"> Archaeologist's Map Piece                | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+130) |
+| <img src="../.gitbook/assets/00044414.png" alt="" data-size="line"> Archaeologist's Map Piece                | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+130) |
+| <img src="../.gitbook/assets/00044415.png" alt="" data-size="line"> Archaeologist's Map Piece                | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+130) |
+| <img src="../.gitbook/assets/00044416.png" alt="" data-size="line"> Lafi Bedmountain's Upgrade Compass Parts | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+120) |
+| <img src="../.gitbook/assets/00044417.png" alt="" data-size="line"> Lafi Bedmountain's Upgrade Compass Parts | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+170) |
+| <img src="../.gitbook/assets/00044418.png" alt="" data-size="line"> Lafi Bedmountain's Upgrade Compass Parts | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+250) |
 {% endtab %}
 
 {% tab title="Valk's Cry" %}
-| Items                                                                |    |                |
-| -------------------------------------------------------------------- | -- | -------------- |
-| [Sharp Black Crystal Shard](https://bdocodex.com/us/item/4998/) x 10 | >> | Valk's Cry x 1 |
-| [Hard Black Crystal Shard](https://bdocodex.com/us/item/4997/) x 10  | >> | Valk's Cry x 1 |
-| [Laila's Petal](https://bdocodex.com/us/item/54031/) x 10            | >> | Valk's Cry x 1 |
+| Items                                                                |    |                                                                                              |
+| -------------------------------------------------------------------- | -- | -------------------------------------------------------------------------------------------- |
+| [Sharp Black Crystal Shard](https://bdocodex.com/us/item/4998/) x 10 | >> | <img src="../.gitbook/assets/QQ截图20221102190836.png" alt="" data-size="line"> Valk's Cry x 1 |
+| [Hard Black Crystal Shard](https://bdocodex.com/us/item/4997/) x 10  | >> | <img src="../.gitbook/assets/QQ截图20221102190836.png" alt="" data-size="line"> Valk's Cry x 1 |
+| [Laila's Petal](https://bdocodex.com/us/item/54031/) x 10            | >> | <img src="../.gitbook/assets/QQ截图20221102190836.png" alt="" data-size="line"> Valk's Cry x 1 |
 {% endtab %}
 
 {% tab title="Gears" %}
-| Items                                                          |    |                                |
-| -------------------------------------------------------------- | -- | ------------------------------ |
-| [Remnant of the Rift](https://bdocodex.com/us/item/43786/) x 3 | >> | Blackstar Helmet               |
-| [Remnant of the Rift](https://bdocodex.com/us/item/43786/) x 3 | >> | Blackstar Armor                |
-| [Remnant of the Rift](https://bdocodex.com/us/item/43786/) x 3 | >> | Blackstar Gloves               |
-| [Remnant of the Rift](https://bdocodex.com/us/item/43786/) x 3 | >> | Blackstar Shoes                |
-| [Remnant of the Rift](https://bdocodex.com/us/item/43786/) x 4 | >> | Blackstar Main Weapon Box      |
-| [Remnant of the Rift](https://bdocodex.com/us/item/43786/) x 4 | >> | Blackstar Awakening Weapon Box |
-| [Remnant of the Rift](https://bdocodex.com/us/item/43786/) x 4 | >> | Blackstar Sub Weapon Box       |
-| Quturan's Left Lung x 1                                        | >> | La Orzeca Helmet Box           |
-| Quturan's Right Lung x 1                                       | >> | La Orzeca Armor Box            |
+| Items                                                                                                 |    |                                |
+| ----------------------------------------------------------------------------------------------------- | -- | ------------------------------ |
+| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 3 | >> | Blackstar Helmet               |
+| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 3 | >> | Blackstar Armor                |
+| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 3 | >> | Blackstar Gloves               |
+| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 3 | >> | Blackstar Shoes                |
+| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 4 | >> | Blackstar Main Weapon Box      |
+| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 4 | >> | Blackstar Awakening Weapon Box |
+| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 4 | >> | Blackstar Sub Weapon Box       |
+|  Quturan's Left Lung x 1                                                                              | >> | La Orzeca Helmet Box           |
+|  Quturan's Right Lung x 1                                                                             | >> | La Orzeca Armor Box            |
 {% endtab %}
 
 {% tab title="Misc" %}

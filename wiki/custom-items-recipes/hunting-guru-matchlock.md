@@ -1,15 +1,17 @@
 # \[Hunting] Guru Matchlock
 
-{% hint style="warning" %}
-**How to Obtain**: Processing (L) - Manufacture With Following Materials
-{% endhint %}
+### _Recipe_
 
-| Item                                                                      | Qty   |
-| ------------------------------------------------------------------------- | ----- |
-| [Breath of Narcion](https://bdocodex.com/us/item/56221/)                  | 100   |
-| Magical Shard                                                             | 100   |
-| Caphras Stone                                                             | 25000 |
-| Concentrated Magical Black Gem                                            | 5000  |
-| [\[Hunting\] Master Matchlock+10](https://bdocodex.com/us/item/56220/#10) | 1     |
+| Item                                                                             | Qty   |
+| -------------------------------------------------------------------------------- | ----- |
+| ![](../../.gitbook/assets/QQ截图20221102191412.png) Breath of Narcion              | 100   |
+| ![](../../.gitbook/assets/QQ截图20221102190233.png) Magical Shard                  | 100   |
+| ![](../../.gitbook/assets/QQ截图20221102190158.png) Caphras Stone                  | 25000 |
+| ![](../../.gitbook/assets/QQ截图20221102190027.png) Concentrated Magical Black Gem | 5000  |
+| ![](../../.gitbook/assets/QQ截图20221102190632.png) \[Hunting] Master Matchlock+10 | 1     |
+
+{% hint style="warning" %}
+**How to Obtain**: Processing (L) - **Manufacture** With Following Materials
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/QQ截图20221102131029.png" alt=""><figcaption></figcaption></figure>

@@ -21,9 +21,9 @@
 * [Custom Attendance Calendar](../../wiki/daily-attendance-rewards.md)
 * Custom Max Weight Pet (Cash Shop)&#x20;
 * Custom Gears
-  1. [Fallen God's Gloves](../../wiki/custom-gears/defense-armors/fallen-gods-gloves.md)
-  2. [Fallen God's Shoes](../../wiki/custom-gears/defense-armors/fallen-gods-shoes.md)
-  3. [Labreska's Helmet](../../wiki/custom-gears/defense-armors/labreskas-helmet.md)
+  1. [Fallen God's Gloves](../../wiki/custom-gears/fallen-gods-gloves.md)
+  2. [Fallen God's Shoes](../../wiki/custom-gears/fallen-gods-shoes.md)
+  3. [Labreska's Helmet](../../wiki/custom-gears/labreskas-helmet.md)
 * Custom Accessories
   1. [Moonlight Accessories Set](../../wiki/custom-accessories/moonlight-accessories-set/)
      * [x] [Moonlight Necklace](../../wiki/custom-accessories/moonlight-accessories-set/moonlight-necklace.md)
@@ -35,5 +35,10 @@
      * [ ] Sunlight Belt (WIP)
      * [ ] Sunlight Earring (WIP)
      * [ ] Sunlight Ring (WIP)
+* Custom Lifeskill Tool
+  * [x] [Alustin's Alchemy Tool](../../wiki/custom-items-recipes/alustins-alchemy-tool.md) (32767 Durability)
+  * [x] [Chef Finto's Cooking Utensil](../../wiki/custom-items-recipes/chef-fintos-cooking-utensil.md) (32767 Durability)
+  * [ ] Manos Fishing Rod (WIP)
+  * [ ] Custom Gathering Tool Set (WIP)
 
 ..and lots of benefits with [**MoonBD Premium**](premium.md)!
