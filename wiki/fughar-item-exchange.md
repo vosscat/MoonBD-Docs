@@ -41,72 +41,72 @@ You can find Fughar in every city/town and exchange items with him.
 {% endtab %}
 
 {% tab title="Valk's Cry" %}
-| Items                                                                |    |                                                                                              |
-| -------------------------------------------------------------------- | -- | -------------------------------------------------------------------------------------------- |
-| [Sharp Black Crystal Shard](https://bdocodex.com/us/item/4998/) x 10 | >> | <img src="../.gitbook/assets/QQ截图20221102190836.png" alt="" data-size="line"> Valk's Cry x 1 |
-| [Hard Black Crystal Shard](https://bdocodex.com/us/item/4997/) x 10  | >> | <img src="../.gitbook/assets/QQ截图20221102190836.png" alt="" data-size="line"> Valk's Cry x 1 |
-| [Laila's Petal](https://bdocodex.com/us/item/54031/) x 10            | >> | <img src="../.gitbook/assets/QQ截图20221102190836.png" alt="" data-size="line"> Valk's Cry x 1 |
+| Items                                                                                              |    |                                                                                    |
+| -------------------------------------------------------------------------------------------------- | -- | ---------------------------------------------------------------------------------- |
+| <img src="../.gitbook/assets/00004998.png" alt="" data-size="line"> Sharp Black Crystal Shard x 10 | >> | <img src="../.gitbook/assets/00017643.png" alt="" data-size="line"> Valk's Cry x 1 |
+| <img src="../.gitbook/assets/00004997.png" alt="" data-size="line"> Hard Black Crystal Shard x 10  | >> | <img src="../.gitbook/assets/00017643.png" alt="" data-size="line"> Valk's Cry x 1 |
+| <img src="../.gitbook/assets/00054031.png" alt="" data-size="line"> Laila's Petal x 10             | >> | <img src="../.gitbook/assets/00017643.png" alt="" data-size="line"> Valk's Cry x 1 |
 {% endtab %}
 
 {% tab title="Gears" %}
-| Items                                                                                                 |    |                                |
-| ----------------------------------------------------------------------------------------------------- | -- | ------------------------------ |
-| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 3 | >> | Blackstar Helmet               |
-| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 3 | >> | Blackstar Armor                |
-| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 3 | >> | Blackstar Gloves               |
-| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 3 | >> | Blackstar Shoes                |
-| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 4 | >> | Blackstar Main Weapon Box      |
-| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 4 | >> | Blackstar Awakening Weapon Box |
-| <img src="../.gitbook/assets/QQ截图20221102194211.png" alt="" data-size="line"> Remnant of the Rift x 4 | >> | Blackstar Sub Weapon Box       |
-|  Quturan's Left Lung x 1                                                                              | >> | La Orzeca Helmet Box           |
-|  Quturan's Right Lung x 1                                                                             | >> | La Orzeca Armor Box            |
+| Items                                                                                        |    |                                                                                                    |
+| -------------------------------------------------------------------------------------------- | -- | -------------------------------------------------------------------------------------------------- |
+| <img src="../.gitbook/assets/00043786.png" alt="" data-size="line"> Remnant of the Rift x 3  | >> | <img src="../.gitbook/assets/00720001.png" alt="" data-size="line"> Blackstar Helmet               |
+| <img src="../.gitbook/assets/00043786.png" alt="" data-size="line"> Remnant of the Rift x 3  | >> | <img src="../.gitbook/assets/00720002.png" alt="" data-size="line"> Blackstar Armor                |
+| <img src="../.gitbook/assets/00043786.png" alt="" data-size="line"> Remnant of the Rift x 3  | >> | <img src="../.gitbook/assets/00720003.png" alt="" data-size="line"> Blackstar Gloves               |
+| <img src="../.gitbook/assets/00043786.png" alt="" data-size="line"> Remnant of the Rift x 3  | >> | <img src="../.gitbook/assets/00720004.png" alt="" data-size="line"> Blackstar Shoes                |
+| <img src="../.gitbook/assets/00043786.png" alt="" data-size="line"> Remnant of the Rift x 4  | >> | <img src="../.gitbook/assets/00021002.png" alt="" data-size="line"> Blackstar Main Weapon Box      |
+| <img src="../.gitbook/assets/00043786.png" alt="" data-size="line"> Remnant of the Rift x 4  | >> | <img src="../.gitbook/assets/00021002.png" alt="" data-size="line"> Blackstar Awakening Weapon Box |
+| <img src="../.gitbook/assets/00043786.png" alt="" data-size="line"> Remnant of the Rift x 4  | >> | <img src="../.gitbook/assets/00021002.png" alt="" data-size="line"> Blackstar Sub Weapon Box       |
+| <img src="../.gitbook/assets/00045013.png" alt="" data-size="line"> Quturan's Left Lung x 1  | >> | <img src="../.gitbook/assets/00045900.png" alt="" data-size="line"> La Orzeca Helmet Box           |
+| <img src="../.gitbook/assets/00045014.png" alt="" data-size="line"> Quturan's Right Lung x 1 | >> | <img src="../.gitbook/assets/00045900.png" alt="" data-size="line"> La Orzeca Armor Box            |
 {% endtab %}
 
 {% tab title="Misc" %}
-| Items                            |   |                                       |
-| -------------------------------- | - | ------------------------------------- |
-| Rift's Fragment x 5              | > | Rift's Echo                           |
-| Manshaum Voodoo Dool             | > | Narc Magic Sealing Stone Bundle       |
-| Garmoth's Scale                  | > | Dragon Scale Fossil                   |
-| Fairy Powder x 100               | > | Restores 3 Energy                     |
-| Fairy Powder x 600               | > | Restores 20 Energy                    |
-| Red Seal x 1                     | > | Caphras Stone Bundle                  |
-| Red Seal x 80                    | > | Main Weapon Exchange Coupon           |
-| Red Seal x 80                    | > | Awk Weapon Exchange Coupon            |
-| Red Seal x 80                    | > | Sub-Weapon Exchange Coupon            |
-| Red Seal x 30                    | > | Remnants of the Rift                  |
-| Red Seal x 50                    | > | Rebellious Spirit Crystal             |
-| Caphras Stone x 5000             | > | Black Spirit Crystal                  |
-| Golen's Heart Fragment x 300     | > | Black Essence                         |
-| Abyssal Ash x 1000               | > | Red Essence                           |
-| Tuvala Ore x 3000                | > | Supreme Alchemy Tool                  |
-| Tuvala Ore x 3000                | > | Supreme Cooking Utensil               |
-| Mysterious Catalyst x 200        | > | Supreme Alchemy Tool                  |
-| Witch's Delicacy x 200           | > | Supreme Cooking Utensil               |
-| Mystical Spirit Powder x 10      | > | Alchemy Stone Shard                   |
-| Sea Monster's Spirit Pouch x 20  | > | Starlight Powder                      |
-| Resplendent Medal of Honor x 50  | > | Black Magic Crystal - Carnage         |
-| Resplendent Medal of Honor x 100 | > | \[Guild]Registration: Cadria Elephant |
-| Resplendent Medal of Honor x 20  | > | Ancient Spirit's Crystal - Swiftness  |
-| Resplendent Medal of Honor x 20  | > | Ancient Spirit's Crystal - Valor      |
-| Resplendent Medal of Honor x 20  | > | Ancient Spirit's Crystal - Viper      |
-| Resplendent Medal of Honor x 2   | > | Blue Whale Oil                        |
-| Resplendent Medal of Honor x 2   | > | Blue Whale Tendon                     |
-| Resplendent Medal of Honor x 2   | > | Fugitive Khalk's Skin                 |
-| Resplendent Medal of Honor x 2   | > | Fugitive Khalk's Horn                 |
-| Resplendent Medal of Honor x 1   | > | \[Event] Caphras Stone Bundle         |
-| Caphras Stone x 200              | > | Kydict's Heirloom x 1                 |
+| Items                                                                                                |                                                                                                           |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| <img src="../.gitbook/assets/00721057.png" alt="" data-size="line"> Rift's Fragment x 5              | <img src="../.gitbook/assets/00721058.png" alt="" data-size="line"> Rift's Echo                           |
+| <img src="../.gitbook/assets/00040383.png" alt="" data-size="line"> Manshaum Voodoo Dool             | <img src="../.gitbook/assets/00015934.png" alt="" data-size="line"> Narc Magic Sealing Stone Bundle       |
+| <img src="../.gitbook/assets/00009768.png" alt="" data-size="line"> Garmoth's Scale                  | <img src="../.gitbook/assets/00044364.png" alt="" data-size="line"> Dragon Scale Fossil                   |
+| <img src="../.gitbook/assets/00005651.png" alt="" data-size="line"> Fairy Powder x 100               | <img src="../.gitbook/assets/00000000_power.png" alt="" data-size="line"> Restores 3 Energy               |
+| <img src="../.gitbook/assets/00005651.png" alt="" data-size="line"> Fairy Powder x 600               | <img src="../.gitbook/assets/00000000_power.png" alt="" data-size="line"> Restores 20 Energy              |
+| <img src="../.gitbook/assets/00000450.png" alt="" data-size="line"> Red Seal x 1                     | <img src="../.gitbook/assets/00015953.png" alt="" data-size="line"> Caphras Stone Bundle                  |
+| <img src="../.gitbook/assets/00000450.png" alt="" data-size="line"> Red Seal x 80                    | <img src="../.gitbook/assets/00018973.png" alt="" data-size="line"> Main Weapon Exchange Coupon           |
+| <img src="../.gitbook/assets/00000450.png" alt="" data-size="line"> Red Seal x 80                    | <img src="../.gitbook/assets/00018949.png" alt="" data-size="line"> Awk Weapon Exchange Coupon            |
+| <img src="../.gitbook/assets/00000450.png" alt="" data-size="line"> Red Seal x 80                    | <img src="../.gitbook/assets/00017987.png" alt="" data-size="line"> Sub-Weapon Exchange Coupon            |
+| <img src="../.gitbook/assets/00000450.png" alt="" data-size="line"> Red Seal x 30                    | <img src="../.gitbook/assets/00043786.png" alt="" data-size="line"> Remnants of the Rift                  |
+| <img src="../.gitbook/assets/00000450.png" alt="" data-size="line"> Red Seal x 50                    | <img src="../.gitbook/assets/00015677_2.png" alt="" data-size="line"> Rebellious Spirit Crystal           |
+| <img src="../.gitbook/assets/00721003.png" alt="" data-size="line"> Caphras Stone x 5000             | <img src="../.gitbook/assets/00045051_2.png" alt="" data-size="line"> Black Spirit Crystal                |
+| <img src="../.gitbook/assets/00044456.png" alt="" data-size="line"> Golen's Heart Fragment x 300     | <img src="../.gitbook/assets/00004996.png" alt="" data-size="line"> Black Essence                         |
+| <img src="../.gitbook/assets/00044450.png" alt="" data-size="line"> Abyssal Ash x 1000               | <img src="../.gitbook/assets/00004989.png" alt="" data-size="line"> Red Essence                           |
+| <img src="../.gitbook/assets/00721051.png" alt="" data-size="line"> Tuvala Ore x 3000                | <img src="../.gitbook/assets/crafting_alchemy_06.png" alt="" data-size="line"> Supreme Alchemy Tool       |
+| <img src="../.gitbook/assets/00721051.png" alt="" data-size="line"> Tuvala Ore x 3000                | <img src="../.gitbook/assets/crafting_cooking_06.png" alt="" data-size="line"> Supreme Cooking Utensil    |
+| <img src="../.gitbook/assets/00009781.png" alt="" data-size="line"> Mysterious Catalyst x 200        | <img src="../.gitbook/assets/crafting_alchemy_06.png" alt="" data-size="line"> Supreme Alchemy Tool       |
+| <img src="../.gitbook/assets/00009780.png" alt="" data-size="line"> Witch's Delicacy x 200           | <img src="../.gitbook/assets/crafting_cooking_06.png" alt="" data-size="line"> Supreme Cooking Utensil    |
+| <img src="../.gitbook/assets/00004924.png" alt="" data-size="line"> Mystical Spirit Powder x 10      | <img src="../.gitbook/assets/00044336.png" alt="" data-size="line"> Alchemy Stone Shard                   |
+| <img src="../.gitbook/assets/00055052.png" alt="" data-size="line"> Sea Monster's Spirit Pouch x 20  | <img src="../.gitbook/assets/00008022.png" alt="" data-size="line"> Starlight Powder                      |
+| <img src="../.gitbook/assets/00015692.png" alt="" data-size="line"> Resplendent Medal of Honor x 50  | <img src="../.gitbook/assets/00015204_0.png" alt="" data-size="line"> Black Magic Crystal - Carnage       |
+| <img src="../.gitbook/assets/00015692.png" alt="" data-size="line"> Resplendent Medal of Honor x 100 | <img src="../.gitbook/assets/00050119.png" alt="" data-size="line"> \[Guild]Registration: Cadria Elephant |
+| <img src="../.gitbook/assets/00015692.png" alt="" data-size="line"> Resplendent Medal of Honor x 20  | Ancient Spirit's Crystal - Swiftness                                                                      |
+| <img src="../.gitbook/assets/00015692.png" alt="" data-size="line"> Resplendent Medal of Honor x 20  | Ancient Spirit's Crystal - Valor                                                                          |
+| <img src="../.gitbook/assets/00015692.png" alt="" data-size="line"> Resplendent Medal of Honor x 20  | Ancient Spirit's Crystal - Viper                                                                          |
+| <img src="../.gitbook/assets/00015692.png" alt="" data-size="line"> Resplendent Medal of Honor x 2   | <img src="../.gitbook/assets/00009727.png" alt="" data-size="line"> Blue Whale Oil                        |
+| <img src="../.gitbook/assets/00015692.png" alt="" data-size="line"> Resplendent Medal of Honor x 2   | <img src="../.gitbook/assets/00009729.png" alt="" data-size="line"> Blue Whale Tendon                     |
+| <img src="../.gitbook/assets/00015692.png" alt="" data-size="line"> Resplendent Medal of Honor x 2   |  Fugitive Khalk's Skin                                                                                    |
+| <img src="../.gitbook/assets/00015692.png" alt="" data-size="line"> Resplendent Medal of Honor x 2   | Fugitive Khalk's Horn                                                                                     |
+| <img src="../.gitbook/assets/00015692.png" alt="" data-size="line"> Resplendent Medal of Honor x 1   | <img src="../.gitbook/assets/00015953.png" alt="" data-size="line"> \[Event] Caphras Stone Bundle         |
+|  <img src="../.gitbook/assets/00721003.png" alt="" data-size="line"> Caphras Stone x 200             | <img src="../.gitbook/assets/00040276 (1).png" alt="" data-size="line"> Kydict's Heirloom x 1             |
 {% endtab %}
 
 {% tab title="Pearls" %}
-| Items                                                                    |    |                     |
-| ------------------------------------------------------------------------ | -- | ------------------- |
-| Pearl Box - 80 x 10                                                      | >> | Pearl Box - 800 x 1 |
-| [Sharp Horn](https://bdocodex.com/us/item/7759/) x 80                    | >> | Pearl Box - 80 x 1  |
-| [Sharp Tooth](https://bdocodex.com/us/item/7762/) x 80                   | >> | Pearl Box - 80 x 1  |
-| [Supreme Whole Leather](https://bdocodex.com/us/item/7756/) x 80         | >> | Pearl Box - 80 x 1  |
-| [Large Beak](https://bdocodex.com/us/item/7765/) x 80                    | >> | Pearl Box - 80 x 1  |
-| [Large Elephant Ivory](https://bdocodex.com/us/item/7768/) x 80          | >> | Pearl Box - 80 x 1  |
-| [Full Five-Color Ferri Feather](https://bdocodex.com/us/item/7771/) x 80 | >> | Pearl Box - 80 x 1  |
+| Items                                                                                                  |    |                                                                                     |
+| ------------------------------------------------------------------------------------------------------ | -- | ----------------------------------------------------------------------------------- |
+| <img src="../.gitbook/assets/00017051.png" alt="" data-size="line"> Pearl Box - 80 x 10                | >> | <img src="../.gitbook/assets/00017056.png" alt="" data-size="line"> Pearl Box - 800 |
+| <img src="../.gitbook/assets/00007759.png" alt="" data-size="line"> Sharp Horn x 80                    | >> | <img src="../.gitbook/assets/00017051.png" alt="" data-size="line"> Pearl Box - 80  |
+| <img src="../.gitbook/assets/00007762.png" alt="" data-size="line"> Sharp Tooth x 80                   | >> | <img src="../.gitbook/assets/00017051.png" alt="" data-size="line"> Pearl Box - 80  |
+| <img src="../.gitbook/assets/00007756.png" alt="" data-size="line"> Supreme Whole Leather x 80         | >> | <img src="../.gitbook/assets/00017051.png" alt="" data-size="line"> Pearl Box - 80  |
+| <img src="../.gitbook/assets/00007765.png" alt="" data-size="line"> Large Beak x 80                    | >> | <img src="../.gitbook/assets/00017051.png" alt="" data-size="line"> Pearl Box - 80  |
+| <img src="../.gitbook/assets/00007768.png" alt="" data-size="line"> Large Elephant Ivory x 80          | >> | <img src="../.gitbook/assets/00017051.png" alt="" data-size="line"> Pearl Box - 80  |
+| <img src="../.gitbook/assets/00007771.png" alt="" data-size="line"> Full Five-Color Ferri Feather x 80 | >> | <img src="../.gitbook/assets/00017051.png" alt="" data-size="line"> Pearl Box - 80  |
 {% endtab %}
 {% endtabs %}
