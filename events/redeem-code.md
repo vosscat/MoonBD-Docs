@@ -1,7 +1,11 @@
 # Redeem Code
 
+{% hint style="danger" %}
+**Please be aware you must be in game in order to able redeem code.**
+{% endhint %}
+
 {% hint style="success" %}
-You can redeem the code at [HERE](https://moonbd.online/account/redeem).
+You can redeem the code by log in your account on [MoonBD Website](https://moonbd.online/) then scroll down on your **Account Setting** page.
 {% endhint %}
 
 | Code                             | Contains                                            | Qty | Until                                              |

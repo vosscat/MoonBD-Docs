@@ -30,7 +30,7 @@
 
 ## Wiki
 
-* [Start You Adventure At MoonBD](start-you-adventure-at-moonbd.md)
+* [Start Your Adventure At MoonBD](wiki/start-your-adventure-at-moonbd.md)
 * [Auto Buy](wiki/auto-buy.md)
 * [Battle Rewards](wiki/battle-rewards.md)
 * [Boss Calendar](wiki/boss-calendar.md)
