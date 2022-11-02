@@ -4,7 +4,13 @@ __
 
 {% tabs %}
 {% tab title="Red Battlefield" %}
+<figure><img src="../.gitbook/assets/QQ截图20221102151805.png" alt=""><figcaption><p><mark style="color:green;"><strong>Victory Reward</strong></mark></p></figcaption></figure>
 
+
+
+
+
+<figure><img src="../.gitbook/assets/QQ截图20221103010426.png" alt=""><figcaption><p><mark style="color:red;"><strong>Defeat Reward</strong></mark></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Node War" %}
@@ -84,4 +90,3 @@ __
 <figure><img src="../.gitbook/assets/QQ截图20221102144425.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
