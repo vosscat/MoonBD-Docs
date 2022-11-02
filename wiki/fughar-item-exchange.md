@@ -8,7 +8,7 @@ You can find Fughar in every city/town and exchange items with him.
 
 {% tabs %}
 {% tab title="Advice of Valks" %}
-| Items                                                                                                        |  Exchange For ↓                                                                            |
+| Items                                                                                                        |  Exchange To ↓                                                                             |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
 | <img src="../.gitbook/assets/00044364.png" alt="" data-size="line"> Dragon Scale Fossil x 1000               | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+80)  |
 | <img src="../.gitbook/assets/00044364.png" alt="" data-size="line"> Dragon Scale Fossil x 2500               | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+110) |
@@ -41,7 +41,7 @@ You can find Fughar in every city/town and exchange items with him.
 {% endtab %}
 
 {% tab title="Valk's Cry" %}
-| Items                                                                                              |    |                                                                                    |
+| Items                                                                                              |    |   Exchange To ↓                                                                    |
 | -------------------------------------------------------------------------------------------------- | -- | ---------------------------------------------------------------------------------- |
 | <img src="../.gitbook/assets/00004998.png" alt="" data-size="line"> Sharp Black Crystal Shard x 10 | >> | <img src="../.gitbook/assets/00017643.png" alt="" data-size="line"> Valk's Cry x 1 |
 | <img src="../.gitbook/assets/00004997.png" alt="" data-size="line"> Hard Black Crystal Shard x 10  | >> | <img src="../.gitbook/assets/00017643.png" alt="" data-size="line"> Valk's Cry x 1 |
@@ -49,7 +49,7 @@ You can find Fughar in every city/town and exchange items with him.
 {% endtab %}
 
 {% tab title="Gears" %}
-| Items                                                                                        |    |                                                                                                    |
+| Items                                                                                        |    |   Exchange To ↓                                                                                    |
 | -------------------------------------------------------------------------------------------- | -- | -------------------------------------------------------------------------------------------------- |
 | <img src="../.gitbook/assets/00043786.png" alt="" data-size="line"> Remnant of the Rift x 3  | >> | <img src="../.gitbook/assets/00720001.png" alt="" data-size="line"> Blackstar Helmet               |
 | <img src="../.gitbook/assets/00043786.png" alt="" data-size="line"> Remnant of the Rift x 3  | >> | <img src="../.gitbook/assets/00720002.png" alt="" data-size="line"> Blackstar Armor                |
@@ -63,7 +63,7 @@ You can find Fughar in every city/town and exchange items with him.
 {% endtab %}
 
 {% tab title="Misc" %}
-| Items                                                                                                |                                                                                                             |
+| Items                                                                                                |   Exchange To ↓                                                                                             |
 | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | <img src="../.gitbook/assets/00721057.png" alt="" data-size="line"> Rift's Fragment x 5              | <img src="../.gitbook/assets/00721058.png" alt="" data-size="line"> Rift's Echo                             |
 | <img src="../.gitbook/assets/00040383.png" alt="" data-size="line"> Manshaum Voodoo Dool             | <img src="../.gitbook/assets/00015934.png" alt="" data-size="line"> Narc Magic Sealing Stone Bundle         |
@@ -99,7 +99,7 @@ You can find Fughar in every city/town and exchange items with him.
 {% endtab %}
 
 {% tab title="Pearls" %}
-| Items                                                                                                  |    |                                                                                     |
+| Items                                                                                                  |    |   Exchange To ↓                                                                     |
 | ------------------------------------------------------------------------------------------------------ | -- | ----------------------------------------------------------------------------------- |
 | <img src="../.gitbook/assets/00017051.png" alt="" data-size="line"> Pearl Box - 80 x 10                | >> | <img src="../.gitbook/assets/00017056.png" alt="" data-size="line"> Pearl Box - 800 |
 | <img src="../.gitbook/assets/00007759.png" alt="" data-size="line"> Sharp Horn x 80                    | >> | <img src="../.gitbook/assets/00017051.png" alt="" data-size="line"> Pearl Box - 80  |
