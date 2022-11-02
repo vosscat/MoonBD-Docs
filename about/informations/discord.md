@@ -1,8 +1,6 @@
 # Discord
 
-<figure><img src="../../.gitbook/assets/Discord-#7289DA.svg" alt="https://discord.gg/SbkeRPW7CE"><figcaption></figcaption></figure>
-
-### _Support **Ticket System**_
+### _**Support Ticket System**_
 
 You can easily reach to us by create a support ticket in [**#ticket-support**](https://discord.com/channels/922765651091791872/1014583206349131919) **** for:
 

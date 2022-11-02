@@ -3,7 +3,7 @@
 ## _Crafting Recipe_
 
 {% hint style="warning" %}
-**How to Obtain**: Processing (L) - Manufacture With Following Materials
+**How to Obtain**: Processing (L) - **Manufacture** With Following Materials
 {% endhint %}
 
 {% hint style="warning" %}

@@ -5,7 +5,7 @@
 ### _Recipe_
 
 {% hint style="warning" %}
-**How to Obtain**: Processing (L) - Hearing With Following Materials
+**How to Obtain**: Processing (L) - **Heating** With Following Materials
 {% endhint %}
 
 |                                                                        | Qty |

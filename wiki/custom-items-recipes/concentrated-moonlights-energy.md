@@ -3,7 +3,7 @@
 ## _Recipe_
 
 {% hint style="warning" %}
-**How to Obtain**: Processing (L) - _Heating_ With Following Materials
+**How to Obtain**: Processing (L) - **Heating** With Following Materials
 {% endhint %}
 
 | Item                                                                                         | Quantity |

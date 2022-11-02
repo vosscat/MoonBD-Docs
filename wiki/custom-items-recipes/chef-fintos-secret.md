@@ -13,3 +13,5 @@
 | ![](../../.gitbook/assets/QQ截图20221102190027.png) Concentrated Magical Black Gem | 100  |
 | ![](../../.gitbook/assets/QQ截图20221102190344.png) Memory Fragment                | 1000 |
 | ![](../../.gitbook/assets/QQ截图20221102190111.png) Witch's Delicacy               | 250  |
+
+<figure><img src="../../.gitbook/assets/unknow1n.png" alt=""><figcaption></figcaption></figure>

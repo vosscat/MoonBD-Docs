@@ -5,12 +5,12 @@
 ### _Recipe_
 
 {% hint style="warning" %}
-**How to Obtain**: Processing (L) - Manufacture With Following Materials
+**How to Obtain**: Processing (L) - **Manufacture** With Following Materials
 {% endhint %}
 
-| Item                                                                            | Qty |
-| ------------------------------------------------------------------------------- | --- |
-| ****![](../../.gitbook/assets/QQ截图20221102185840.png) **** Supreme Alchemy Tool | 1   |
-| [Alustin's Secret](alustins-secret.md)                                          | 1   |
+| Item                                                                                     | Qty |
+| ---------------------------------------------------------------------------------------- | --- |
+| ****![](../../.gitbook/assets/QQ截图20221102185840.png) **** Supreme Alchemy Tool          | 1   |
+| ![](../../.gitbook/assets/QQ截图20221103045349.png) [Alustin's Secret](alustins-secret.md) | 1   |
 
 <figure><img src="../../.gitbook/assets/QQ截图20221102174945.png" alt=""><figcaption></figcaption></figure>
