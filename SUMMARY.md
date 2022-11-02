@@ -2,7 +2,7 @@
 
 ## About
 
-* [Introduction](README.md)
+* [Welcome](README.md)
 * [Informations](about/informations/README.md)
   * [Rates](about/informations/rates.md)
   * [Features](about/informations/features.md)
@@ -12,6 +12,7 @@
 * [FAQ](about/faq/README.md)
   * [Frequently Asked Questions](about/faq/frequently-asked-questions.md)
   * [Common Errors and Fixes](about/faq/common-errors-and-fixes.md)
+* [Credits](about/credits.md)
 
 ## Developments
 
