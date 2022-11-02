@@ -6,11 +6,15 @@
 **How to Obtain**: Processing (L) - Manufacture With Following Materials
 {% endhint %}
 
-| Item                                                                   | Quantity |
-| ---------------------------------------------------------------------- | -------- |
-| PEN: [Tidal Deboreka Belt](https://bdocodex.com/us/item/12277/#5)      | x 1      |
-| PEN: [Nightfallen Tungrad Belt](https://bdocodex.com/us/item/12272/#5) | x 1      |
-| PEN: [Valtarra Eclipsed Belt](https://bdocodex.com/us/item/12236/#5)   | x 1      |
-| Concentrated Moonlight's Energy                                        | x 150    |
+{% hint style="warning" %}
+To reinform your accessory to "Tidal" or "Nightfallen" [Visit Here](../../custom-items/accessory-change-item.md).
+{% endhint %}
+
+| Item                                                                                    | Quantity |
+| --------------------------------------------------------------------------------------- | -------- |
+| PEN: [Tidal Deboreka Belt](https://bdocodex.com/us/item/12277/#5)                       | x 1      |
+| PEN: [Nightfallen Tungrad Belt](https://bdocodex.com/us/item/12272/#5)                  | x 1      |
+| PEN: [Valtarra Eclipsed Belt](https://bdocodex.com/us/item/12236/#5)                    | x 1      |
+| [Concentrated Moonlight's Energy](../../custom-items/concentrated-moonlights-energy.md) | x 150    |
 
 <figure><img src="../../../.gitbook/assets/QQ截图20221102003619.png" alt=""><figcaption><p>Moonlight Belt</p></figcaption></figure>

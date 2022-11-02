@@ -22,9 +22,9 @@ Boss Calendar Spreadsheet
 
 <figure><img src="../.gitbook/assets/QQ截图20221101220219.png" alt=""><figcaption></figcaption></figure>
 
-### _In Game Boss Spawn Notification_
+### _In Game Boss Notification_
 
-> You can enable the boss spawn timer and get notified before the boss spawns
+> You can enable the _Boss Notification_ function to get notified before the boss spawns.
 
 <figure><img src="../.gitbook/assets/QQ截图20221101214137.png" alt=""><figcaption><p><strong>Select in the ESC menu</strong></p></figcaption></figure>
 
