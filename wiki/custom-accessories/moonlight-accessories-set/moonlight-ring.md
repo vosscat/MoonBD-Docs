@@ -7,7 +7,7 @@
 {% endhint %}
 
 {% hint style="warning" %}
-To reinform your accessory to "Starlit" or "Clouded" [Visit Here](../../custom-items-recipes/accessory-change-item.md).
+To reform your accessory to "Starlit" or "Clouded" [Visit Here](../../custom-items-recipes/accessory-change-item.md).
 {% endhint %}
 
 | Item                                                                                                                                                 | Quantity |
