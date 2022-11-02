@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/QQ截图20221103025443.png
-coverY: 0
----
-
 # Welcome
 
 {% hint style="danger" %}
