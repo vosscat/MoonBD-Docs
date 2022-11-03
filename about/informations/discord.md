@@ -1,5 +1,9 @@
 # Discord
 
+{% hint style="info" %}
+You can join MoonBD discord by click the **Discord** tab on top right of this site.
+{% endhint %}
+
 ### _**Support Ticket System**_
 
 You can easily reach to us by create a support ticket in [**#ticket-support**](https://discord.com/channels/922765651091791872/1014583206349131919) **** for:
