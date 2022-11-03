@@ -14,9 +14,9 @@
 * Central Market Tax Bonus +30%
 * Item Quantity Increase +100%
 * Gathering Drop Rate Increase +50%
-* Additional Teleport Scrolls to Cities and Mob Spots (Limited 10 Times Per Day)&#x20;
+* Additional [Teleport Scrolls](../../wiki/teleport-scroll-locations.md) to Cities and Mob Spots (Limited 10 Times Per Day)&#x20;
 * 200 Loyalty, 1500 Pearl, 150 Cron Stones Every Hour in Addition (Limited 5 Times Per Day)
-* Premium Exclusive Attendance Rewards
+* Premium Exclusive [Attendance Rewards](../../wiki/daily-attendance-rewards.md)
 * Auto Buy +10% Silver Bonus
 
 ## _Extra Rewards_
