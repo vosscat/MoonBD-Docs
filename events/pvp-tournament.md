@@ -1,4 +1,4 @@
-# PvP Tournament
+# ⚔ PvP Tournament
 
 {% hint style="info" %}
 PvP Tournament events are hosted by the GM. Normally it runs once per month and will be announced by GM in discord for details of enrollment.

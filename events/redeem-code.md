@@ -1,4 +1,4 @@
-# Redeem Code
+# 🔢 Redeem Code
 
 {% hint style="danger" %}
 **Please be aware you must be in game in order to able redeem code.**
