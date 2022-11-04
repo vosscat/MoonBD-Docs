@@ -1,4 +1,4 @@
-# 📅 Boss Calendar
+# Boss Calendar
 
 {% hint style="warning" %}
 1 to 5 minutes difference may occur because of server restarts.

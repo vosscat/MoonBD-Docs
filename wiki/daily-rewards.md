@@ -1,4 +1,4 @@
-# 📅 Daily Rewards
+# Daily Rewards
 
 {% hint style="info" %}
 You can claim the daily rewards in challenge menu(**Y**).

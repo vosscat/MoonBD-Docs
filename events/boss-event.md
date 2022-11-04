@@ -1,4 +1,4 @@
-# 👿 Boss Event
+# Boss Event
 
 {% hint style="warning" %}
 We are doing Boss Event every Sunday with normal and custom bosses. Announcement will be made 1 day before the event takes place (except random mini-boss events). Join for juicy drops and more!

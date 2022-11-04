@@ -1,4 +1,4 @@
-# 📅 Daily Attendance Rewards
+# Daily Attendance Rewards
 
 * You can check your daily attendance progression at [**MoonBD Official Website**](https://moonbd.online).
 * Daily attendance rewards are auto claimed when you log into the game.
