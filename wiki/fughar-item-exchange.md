@@ -1,4 +1,4 @@
-# Fughar Item Exchange
+# 🔛 Fughar Item Exchange
 
 {% hint style="success" %}
 You can find Fughar in every city/town and exchange items with him.

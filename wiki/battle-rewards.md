@@ -1,4 +1,4 @@
-# Battle Rewards
+# 🚩 Battle Rewards
 
 __
 

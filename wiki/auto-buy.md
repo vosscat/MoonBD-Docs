@@ -2,7 +2,7 @@
 description: Central Market Auto Buy System
 ---
 
-# Auto Buy
+# 💹 Auto Buy
 
 * Items will be bought as current market price, NOT listed price.
 * You will receive %20 of the item price in your in game mail.

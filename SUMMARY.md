@@ -12,11 +12,13 @@
 * [❓ FAQ](about/faq/README.md)
   * [Frequently Asked Questions](about/faq/frequently-asked-questions.md)
   * [Common Errors and Fixes](about/faq/common-errors-and-fixes.md)
+* [🛠 Known Bugs/Issues](about/known-bugs-issues.md)
 * [❤ Credits](about/credits.md)
 
-## Developments
+## Join MoonBD
 
-* [🛠 Known Bugs/Issues](server-developments/known-bugs-issues.md)
+* [⬇ Installation](join-moonbd/installation.md)
+* [🔰 Start Your Adventure At MoonBD](join-moonbd/start-your-adventure-at-moonbd.md)
 
 ## Events
 
@@ -26,7 +28,6 @@
 
 ## Wiki
 
-* [🔰 Start Your Adventure At MoonBD](start-you-adventure-at-moonbd.md)
 * [💹 Auto Buy](wiki/auto-buy.md)
 * [🚩 Battle Rewards](wiki/battle-rewards.md)
 * [📅 Boss Calendar](wiki/boss-calendar.md)

@@ -1,2 +1,2 @@
-# Custom Life Items
+# 🔨 Custom Items / Recipes
 

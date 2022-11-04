@@ -1,4 +1,4 @@
-# Known Bugs/Issues
+# 🛠 Known Bugs/Issues
 
 1. Sometimes Skill Add-ons not showing up when you set them
 2. Player disconnects from game when kicked out from guild
@@ -11,3 +11,4 @@
 9. Nova character can’t use skill while Q block stance (Succession,Pre-Awakening)
 10. Disconnecting from game randomly while playing with Nova Awakening
 11. Enhanced Vell's Heart can not be used in Tagged Character with Copied gear. Main char with main gear can use/have enhanced vell but if you put it in Tagged character with copied gear it will crash your game. In order to fix this untag your character move Enhanced Vell's Heart out of that character and copy again.
+12. Farming error "gathering time is invalid"

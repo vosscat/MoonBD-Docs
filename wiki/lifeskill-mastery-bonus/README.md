@@ -1,4 +1,4 @@
-# Lifeskill Mastery Bonus
+# ⛏ Lifeskill Mastery Bonus
 
 * [Fishing Mastery Bonus](fishing.md)
 * [Gathering Mastery Bonus](gathering.md)

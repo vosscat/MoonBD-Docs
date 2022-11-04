@@ -1,2 +1,2 @@
-# Informations
+# ℹ Informations
 
