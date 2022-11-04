@@ -4,10 +4,10 @@
 
 * [🌝 Welcome](README.md)
 * [ℹ Informations](about/informations/README.md)
-  * [Rates](about/informations/rates.md)
-  * [Features](about/informations/features.md)
+  * [Server Rates](about/informations/server-rates.md)
+  * [Server Features](about/informations/server-features.md)
   * [Discord](about/informations/discord.md)
-  * [Premium](about/informations/premium.md)
+  * [MoonBD Premium](about/informations/moonbd-premium.md)
   * [Managements](about/informations/managements.md)
 * [❓ FAQ](about/faq/README.md)
   * [Frequently Asked Questions](about/faq/frequently-asked-questions.md)
@@ -18,7 +18,7 @@
 ## Join MoonBD
 
 * [⬇ Installation](join-moonbd/installation.md)
-* [🔰 Start Your Adventure At MoonBD](join-moonbd/start-your-adventure-at-moonbd.md)
+* [🔰 First Time In Game](join-moonbd/first-time-in-game.md)
 
 ## Events
 

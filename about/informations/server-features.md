@@ -1,4 +1,4 @@
-# Features
+# Server Features
 
 ## _Jump Start!_
 
@@ -42,4 +42,4 @@
   * [ ] Manos Fishing Rod (WIP)
   * [ ] Custom Gathering Tool Set (WIP)
 
-..and lots of benefits with [**MoonBD Premium**](premium.md)!
+..and lots of benefits with [**MoonBD Premium**](moonbd-premium.md)!
