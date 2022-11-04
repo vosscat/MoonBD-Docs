@@ -1,4 +1,4 @@
-# Premium
+# MoonBD Premium
 
 ## _Buffs_
 
@@ -16,7 +16,7 @@
 * Gathering Drop Rate Increase +50%
 * Additional [Teleport Scrolls](../../wiki/teleport-scroll-locations.md) to Cities and Mob Spots (Limited 10 Times Per Day)&#x20;
 * 200 Loyalty, 1500 Pearl, 150 Cron Stones Every Hour in Addition (Limited 5 Times Per Day)
-* Premium Exclusive [Attendance Rewards](../../wiki/daily-attendance-rewards.md)
+* Premium Exclusive [Attendance Rewards](../../wiki/rewards/daily-attendance-rewards.md)
 * [Auto Buy](../../wiki/auto-buy.md) +10% Silver Bonus
 
 ## _Extra Rewards_

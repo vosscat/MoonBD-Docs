@@ -9,7 +9,7 @@
 * Start With Whole Map Unlocked! (Get It From Y Challenge Menu)
 * Start With **** All Adventure Log Buffs Unlocked(Custom Item Moonlight Tome Gives All Buffs)
 * Start With All Processing Knowledges Unlocked(Get It From Y Challenge Menu)
-* Start With 10000 Pearls, T8 Horse, Pets
+* Start With 15000 Pearls, T8 Horse, 3 Pets, 3 Day of [MoonBD Premium](moonbd-premium.md).
 
 ## _And More...._
 
@@ -19,7 +19,7 @@
 * Extra Life [Mastery Bonuses/Bracket](../../wiki/lifeskill-mastery-bonus/)
 * [Items Exchange NPC](../../wiki/fughar-item-exchange.md) for Failstacks, Cry, and lots more
 * [Custom Life Items](../../wiki/custom-items-recipes/)
-* [Custom Attendance Calendar](../../wiki/daily-attendance-rewards.md)
+* [Custom Attendance Calendar](../../wiki/rewards/daily-attendance-rewards.md)
 * Custom Max Weight Pet (Cash Shop)&#x20;
 * Custom Gears
   1. [Fallen God's Gloves](../../wiki/custom-gears/fallen-gods-gloves.md)
