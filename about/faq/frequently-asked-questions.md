@@ -74,7 +74,7 @@ Chill out, take a screenshot and send it through discord with a DM to one of the
 
 <details>
 
-<summary>Where Should I Place The Customization File For My Character Appearance Creation ?</summary>
+<summary>Where Should I Place The Customization File For Character Appearance Creation ?</summary>
 
 C:\Users\Documents\MoonBDO Corsair\Customization
 
