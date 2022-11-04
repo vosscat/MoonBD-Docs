@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>Which client version are we on and when we'll get update ?</summary>
+<summary>Which Client Version Are We On? When We'll Get Update ?</summary>
 
 We're on the Corsair Version. We have released the Corsair not long ago and now we are still working on Corsair later we will start working on Reboot version.
 
@@ -10,7 +10,7 @@ We're on the Corsair Version. We have released the Corsair not long ago and now 
 
 <details>
 
-<summary>Is season enabled ?</summary>
+<summary>Is Season Enabled ?</summary>
 
 No, season seems enabled but it is not you can not create season characters. Even if you select season it will not create season character. Since now players start with 260 AP and 300 DP no point to have season.
 
@@ -18,7 +18,7 @@ No, season seems enabled but it is not you can not create season characters. Eve
 
 <details>
 
-<summary>My game is crashing, game does not start what can i do ?</summary>
+<summary>My Game Is Crashing And Game Does Not Start. What Can I Do ?</summary>
 
 Before contacting us here what you can do:
 
@@ -39,7 +39,7 @@ Before contacting us here what you can do:
 
 <details>
 
-<summary>LiveGuard tells me i am temporarely banned, what can i do ?</summary>
+<summary>LiveGuard Tells Me I Am Temporarely Banned. What Can I Do ?</summary>
 
 Check if you have macro apps running like mouse or keyboard, if so close them and try after 10 minutes. If the problem continues contact us through discord.
 
@@ -47,7 +47,7 @@ Check if you have macro apps running like mouse or keyboard, if so close them an
 
 <details>
 
-<summary>How do i use the drop filter ?</summary>
+<summary>How Do I Use The Drop Filter ?</summary>
 
 Drop filter currently not working**.**
 
@@ -55,7 +55,7 @@ Drop filter currently not working**.**
 
 <details>
 
-<summary>A player is trashtalking/insulting me, what can i do?</summary>
+<summary>A Player Is Trashtalking/Insulting Me. What Can I Do?</summary>
 
 Chill out, take a screenshot and send it through discord with a DM to one of the GMs then you can block that player or you can create a player [_report ticket_](../informations/discord.md#support-ticket-system).
 
@@ -63,7 +63,7 @@ Chill out, take a screenshot and send it through discord with a DM to one of the
 
 <details>
 
-<summary>I'm getting the "Unable to start the game due to authentication failure" error. How can i fix it ?</summary>
+<summary>I'm Getting The "Unable to Start The Game Due to Authentication Failure" Error. How Can I Fix It ?</summary>
 
 1. [Click Here and Download](https://drive.google.com/file/d/19kdDzSm3kTHf0h2gTQP9lgOu6hQM8YUs/view?usp=sharing)
 2. Close your launcher in system tray.
@@ -72,4 +72,10 @@ Chill out, take a screenshot and send it through discord with a DM to one of the
 
 </details>
 
-****
+<details>
+
+<summary>Where Should I Place The Customization File For My Character Appearance Creation ?</summary>
+
+C:\Users\Documents\MoonBDO Corsair\Customization
+
+</details>
