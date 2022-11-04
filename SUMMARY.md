@@ -50,6 +50,7 @@
   * [Chef Finto's Cooking Utensil](wiki/custom-items-recipes/chef-fintos-cooking-utensil.md)
   * [Chef Finto's Secret](wiki/custom-items-recipes/chef-fintos-secret.md)
   * [\[Hunting\] Guru Matchlock](wiki/custom-items-recipes/hunting-guru-matchlock.md)
+  * [Rich Merchant's Ring](wiki/custom-items-recipes/rich-merchants-ring.md)
 * [🔛 Fughar Item Exchange](wiki/fughar-item-exchange.md)
 * [⛏ Lifeskill Mastery Bonus](wiki/lifeskill-mastery-bonus/README.md)
   * [Fishing](wiki/lifeskill-mastery-bonus/fishing.md)
@@ -61,4 +62,5 @@
   * [📅 Daily Rewards](wiki/rewards/daily-rewards.md)
   * [📅 Daily Attendance Rewards](wiki/rewards/daily-attendance-rewards.md)
   * [⬆ Leveling Rewards](wiki/rewards/leveling-rewards.md)
+  * [🪓 Monster Kills Count Reward](wiki/rewards/monster-kills-count-reward.md)
 * [📍 Teleport Scroll Locations](wiki/teleport-scroll-locations.md)
