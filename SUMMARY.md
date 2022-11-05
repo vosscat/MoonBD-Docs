@@ -57,6 +57,7 @@
   * [Gathering](wiki/lifeskill-mastery-bonus/gathering.md)
   * [Hunting](wiki/lifeskill-mastery-bonus/hunting.md)
   * [Sailing](wiki/lifeskill-mastery-bonus/sailing.md)
+* [🏮 Night Vendor](wiki/night-vendor.md)
 * [🎁 Rewards](wiki/rewards/README.md)
   * [🚩 Battle Rewards](wiki/rewards/battle-rewards.md)
   * [📅 Daily Rewards](wiki/rewards/daily-rewards.md)
@@ -64,3 +65,4 @@
   * [⬆ Leveling Rewards](wiki/rewards/leveling-rewards.md)
   * [🪓 Monster Kills Count Reward](wiki/rewards/monster-kills-count-reward.md)
 * [📍 Teleport Scroll Locations](wiki/teleport-scroll-locations.md)
+* [💙 Vell's Heart Enhancement](wiki/vells-heart-enhancement.md)
