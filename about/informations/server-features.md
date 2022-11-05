@@ -25,6 +25,7 @@
   1. [Fallen God's Gloves](../../wiki/custom-gears/fallen-gods-gloves.md)
   2. [Fallen God's Shoes](../../wiki/custom-gears/fallen-gods-shoes.md)
   3. [Labreska's Helmet](../../wiki/custom-gears/labreskas-helmet.md)
+* Custom (WIP)
 * Custom Accessories
   1. [Moonlight Accessories Set](../../wiki/custom-accessories/moonlight-accessories-set/)
      * [x] [Moonlight Necklace](../../wiki/custom-accessories/moonlight-accessories-set/moonlight-necklace.md)
@@ -32,10 +33,15 @@
      * [x] [Moonlight Earring](../../wiki/custom-accessories/moonlight-accessories-set/moonlight-earring.md)
      * [x] [Moonlight Ring](../../wiki/custom-accessories/moonlight-accessories-set/moonlight-ring.md)
   2. Sunlight Accessories Set (WIP)
-     * [ ] Sunlight Necklace (WIP)
-     * [ ] Sunlight Belt (WIP)
-     * [ ] Sunlight Earring (WIP)
-     * [ ] Sunlight Ring (WIP)
+     * [ ] Sunlight Necklace
+     * [ ] Sunlight Belt
+     * [ ] Sunlight Earring
+     * [ ] Sunlight Ring
+  3. Starlight Accessories Set (WIP)
+     * [ ] Starlight Necklack
+     * [ ] Starlight Belt
+     * [ ] Starlight Earring
+     * [ ] Starlight Ring
 * Custom Lifeskill Tool
   * [x] [Alustin's Alchemy Tool](../../wiki/custom-items-recipes/alustins-alchemy-tool.md) (32767 Durability)
   * [x] [Chef Finto's Cooking Utensil](../../wiki/custom-items-recipes/chef-fintos-cooking-utensil.md) (32767 Durability)

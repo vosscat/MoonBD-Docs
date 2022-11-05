@@ -6,6 +6,10 @@
 
 {% tabs %}
 {% tab title="⚔️ Destruction" %}
+{% hint style="info" %}
+* You can enhance your Vell's heart with **** <img src="../.gitbook/assets/00045503.png" alt="" data-size="line"><mark style="color:orange;">**Khan's Heart: Destruction**</mark>**.**
+{% endhint %}
+
 | AP                                 | 1\~5   |
 | ---------------------------------- | ------ |
 | Accuracy                           | 5\~12  |
@@ -22,6 +26,10 @@
 {% endtab %}
 
 {% tab title="🛡️ Protection" %}
+{% hint style="info" %}
+* You can enhance your Vell's heart with **** <img src="../.gitbook/assets/00045513.png" alt="" data-size="line"><mark style="color:orange;">**Khan's Heart: Protection**</mark>**.**
+{% endhint %}
+
 | Damage Reduction             | 1\~5   |
 | ---------------------------- | ------ |
 | Evasion                      | 5\~12  |
@@ -33,6 +41,10 @@
 {% endtab %}
 
 {% tab title="⛏️ Life" %}
+{% hint style="info" %}
+* You can enhance your Vell's heart with **** <img src="../.gitbook/assets/00045514.png" alt="" data-size="line"><mark style="color:orange;">**Khan's Heart: Life**</mark>**.**
+{% endhint %}
+
 |                     |         |
 | ------------------- | ------- |
 | Life Skill Mastery  | 10\~50  |
