@@ -4,7 +4,7 @@
 Items below are added to Patrigio (Night Vendor).
 {% endhint %}
 
-| Item                                                                                        | Chance | Price             |
+| Item                                                                                        | Chance | Price (Minimum)   |
 | ------------------------------------------------------------------------------------------- | ------ | ----------------- |
 | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+200)  | 5%     | 200,000,000,000   |
 | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+300)  | 3%     | 300,000,000,000   |
