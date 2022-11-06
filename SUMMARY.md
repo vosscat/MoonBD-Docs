@@ -28,6 +28,7 @@
 
 ## Wiki
 
+* [📈 AP & DP Brackets](wiki/ap-and-dp-brackets.md)
 * [💹 Auto Buy](wiki/auto-buy.md)
 * [📅 Boss Calendar](wiki/boss-calendar.md)
 * [💍 Custom Accessories](wiki/custom-accessories/README.md)
