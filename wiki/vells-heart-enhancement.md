@@ -10,19 +10,19 @@
 * You can enhance your Vell's heart with **** <img src="../.gitbook/assets/00045503.png" alt="" data-size="line"><mark style="color:orange;">**Khan's Heart: Destruction**</mark>**.**
 {% endhint %}
 
-| AP                                 | 1\~5   |
-| ---------------------------------- | ------ |
-| Accuracy                           | 5\~12  |
-| Ignore All Resistance              | 1%\~5% |
-| Ignore Knockback/Float  Resistance | 1%\~5% |
-| Ignore Knockdown/Bound Resistance  | 1%\~5% |
-| Ignore Grab Resistance             | 1%\~5% |
-| All Special Damage                 | 1%\~5% |
-| Down Attack Additional Damage      | 1%\~5% |
-| Additional Air Attack Damage       | 1%\~5% |
-| Back Attack Extra Damage           | 1%\~3% |
-| Critical Chance                    | 1%\~3% |
-| Critical Hit Damage                | 1%\~3% |
+| AP                                 | 1, 3, 5 |
+| ---------------------------------- | ------- |
+| Accuracy                           | 5\~12   |
+| Ignore All Resistance              | 1%\~5%  |
+| Ignore Knockback/Float  Resistance | 1%\~5%  |
+| Ignore Knockdown/Bound Resistance  | 1%\~5%  |
+| Ignore Grab Resistance             | 1%\~5%  |
+| All Special Damage                 | 1%\~5%  |
+| Down Attack Additional Damage      | 1%\~5%  |
+| Additional Air Attack Damage       | 1%\~5%  |
+| Back Attack Extra Damage           | 1%\~3%  |
+| Critical Chance                    | 1%\~3%  |
+| Critical Hit Damage                | 1%\~3%  |
 {% endtab %}
 
 {% tab title="🛡️ Protection" %}
