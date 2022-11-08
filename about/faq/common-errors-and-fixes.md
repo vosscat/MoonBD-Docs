@@ -1,5 +1,9 @@
 # Common Errors and Fixes
 
+{% hint style="info" %}
+You can contact developers for support by create a [Discord support ticket.](../informations/discord.md)
+{% endhint %}
+
 {% hint style="success" %}
 ### _**Necessary files for solving problems before/after playing MoonBD**_
 
@@ -26,17 +30,16 @@ As this may be obvious check your username and password in launcher re-enter in 
 
 <details>
 
-<summary>Game Crashing On Server Selection</summary>
+<summary>Game Crashing Troubleshooting</summary>
 
-If you encounter this issue there are 2 reasons on is if you try to login to an account that is already online in game or it can be caused by servers and protection contact developers.
+_**Crahsing After Select Channel**_
 
-</details>
+1. If you encounter this issue there are 2 reasons on is if you try to login to an account that is already online in game or it can be caused by servers and protection. Contact developers.
+2. If you don't have **.NET 6.0** installed on your pc might also caused the crash. Install it and try again. [**Download Here**](https://dotnet.microsoft.com/en-us/download/dotnet/6.0).&#x20;
 
-<details>
+_**Crashing In game or On Loading Screen**_
 
-<summary>Game Ccrashing In game or On Loading Screen</summary>
-
-This is caused by your game having some broken PAZ files in Paz folder. Make zip of Log folder in your game folder and send it to developers.
+1. This is caused by your game having some broken PAZ files in Paz folder. Make zip of Log folder in your game folder and send it to developers.
 
 </details>
 

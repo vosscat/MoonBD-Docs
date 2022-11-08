@@ -17,7 +17,7 @@
 
 ## Join MoonBD
 
-* [⬇ Installation](join-moonbd/installation.md)
+* [⬇ Installation Guide](join-moonbd/installation-guide.md)
 * [🔰 First Time In Game](join-moonbd/first-time-in-game.md)
 
 ## Events

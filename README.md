@@ -12,7 +12,7 @@ This is still a WIP site. If you would like to contribute to this Wiki for anyth
 
 * [Server Rates](about/informations/server-rates.md)
 * [Server Features](about/informations/server-features.md)
-* [MoonBD Installation](join-moonbd/installation.md)
+* [MoonBD Installation](join-moonbd/installation-guide.md)
 * [First Time In Game](join-moonbd/first-time-in-game.md)
 * [Join MoonBD Official Discord](https://discord.gg/SbkeRPW7CE)
 * [MoonBD Wiki](broken-reference)
