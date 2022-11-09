@@ -18,7 +18,7 @@
 * Maximum Pet Count: 9&#x20;
 * Extra Life [Mastery Bonuses/Bracket](../../wiki/lifeskill-mastery-bonus/)
 * [Items Exchange NPC](../../wiki/fughar-item-exchange.md) for Failstacks, Cry, and lots more
-* [Custom Life Items](../../wiki/custom-items-recipes/)
+* [Custom Life Items](../../wiki/custom-tools-recipes/)
 * [Custom Attendance Calendar](../../wiki/rewards/daily-attendance-rewards.md)
 * Custom Max Weight Pet (Cash Shop)&#x20;
 * Custom Gears
@@ -32,19 +32,19 @@
      * [x] [Moonlight Belt](../../wiki/custom-accessories/moonlight-accessories-set/moonlight-belt.md)
      * [x] [Moonlight Earring](../../wiki/custom-accessories/moonlight-accessories-set/moonlight-earring.md)
      * [x] [Moonlight Ring](../../wiki/custom-accessories/moonlight-accessories-set/moonlight-ring.md)
-  2. Sunlight Accessories Set (WIP)
-     * [ ] Sunlight Necklace
-     * [ ] Sunlight Belt
-     * [ ] Sunlight Earring
-     * [ ] Sunlight Ring
+  2. [Sunlight Accessories Set](../../wiki/custom-accessories/sunlight-accessories-set/)
+     * [x] [Sunlight Necklace](../../wiki/custom-accessories/sunlight-accessories-set/sunlight-necklace.md)
+     * [x] [Sunlight Belt](../../wiki/custom-accessories/sunlight-accessories-set/sunlight-belt.md)
+     * [x] [Sunlight Earring](../../wiki/custom-accessories/sunlight-accessories-set/sunlight-earring.md)
+     * [x] [Sunlight Ring](../../wiki/custom-accessories/sunlight-accessories-set/sunlight-ring.md)
   3. Starlight Accessories Set (WIP)
      * [ ] Starlight Necklack
      * [ ] Starlight Belt
      * [ ] Starlight Earring
      * [ ] Starlight Ring
 * Custom Lifeskill Tool
-  * [x] [Alustin's Alchemy Tool](../../wiki/custom-items-recipes/alustins-alchemy-tool.md) (32767 Durability)
-  * [x] [Chef Finto's Cooking Utensil](../../wiki/custom-items-recipes/chef-fintos-cooking-utensil.md) (32767 Durability)
+  * [x] [Alustin's Alchemy Tool](../../wiki/custom-tools-recipes/life-tools/alustins-alchemy-tool.md) (32767 Durability)
+  * [x] [Chef Finto's Cooking Utensil](../../wiki/custom-tools-recipes/life-tools/chef-fintos-cooking-utensil.md) (32767 Durability)
   * [ ] Manos Fishing Rod (WIP)
   * [ ] Custom Gathering Tool Set (WIP)
 

@@ -1,4 +1,4 @@
-# Moonlight Accessories Set
+# 🌙 Moonlight Accessories Set
 
 * ![](../../../.gitbook/assets/neck.png) [Moonlight Necklace](moonlight-necklace.md)
 * ![](<../../../.gitbook/assets/belt (1).png>) [Moonlight Belt](moonlight-belt.md)
