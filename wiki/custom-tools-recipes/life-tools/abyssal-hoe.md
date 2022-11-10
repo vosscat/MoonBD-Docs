@@ -10,12 +10,11 @@
 You can enhance this tool with <img src="../../../.gitbook/assets/unknown.png" alt="" data-size="line">[Concentrated Abyssal Stone](../materials/concentrated-abyssal-stone.md).
 {% endhint %}
 
-| Item                                                                                                      | Qty     |
-| --------------------------------------------------------------------------------------------------------- | ------- |
-| ![](../../../.gitbook/assets/QQ截图20221109021206.png) PEN: Manos Hoe                                       | 1       |
-| ![](../../../.gitbook/assets/00721003.png) Caphras Stone                                                  | 100,000 |
-| ![](../../../.gitbook/assets/00004987.png) Concentrated Magical Black Gem                                 | 20,000  |
-| ![](../../../.gitbook/assets/00004915.png) [Manos Stone](https://bdocodex.com/us/item/4915/)              | 10,000  |
-| ![](../../../.gitbook/assets/00005303.png) [Tenacious Origin of Life](https://bdocodex.com/us/item/5303/) | 250,000 |
+| Item                                                                                                               | Qty     |
+| ------------------------------------------------------------------------------------------------------------------ | ------- |
+| ![](../../../.gitbook/assets/QQ截图20221109021206.png) PEN: Manos Hoe                                                | 1       |
+| ![](../../../.gitbook/assets/unknown.png) [Concentrated Abyssal Stone](../materials/concentrated-abyssal-stone.md) | 250     |
+| ![](../../../.gitbook/assets/00004915.png) [Manos Stone](https://bdocodex.com/us/item/4915/)                       | 10,000  |
+| ![](../../../.gitbook/assets/00005303.png) [Tenacious Origin of Life](https://bdocodex.com/us/item/5303/)          | 250,000 |
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

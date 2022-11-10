@@ -13,8 +13,7 @@ You can enhance this tool with <img src="../../../.gitbook/assets/unknown.png" a
 | Item                                                                                                                 | Qty     |
 | -------------------------------------------------------------------------------------------------------------------- | ------- |
 | ![](../../../.gitbook/assets/QQ截图20221109021226.png) PEN: Manos Fluid Collector                                      | 1       |
-| ![](../../../.gitbook/assets/00721003.png) Caphras Stone                                                             | 100,000 |
-| ![](../../../.gitbook/assets/00004987.png) Concentrated Magical Black Gem                                            | 40,000  |
+| ![](../../../.gitbook/assets/unknown.png) [Concentrated Abyssal Stone](../materials/concentrated-abyssal-stone.md)   | 250     |
 | ![](../../../.gitbook/assets/00004915.png) [Manos Stone](https://bdocodex.com/us/item/4915/)                         | 10,000  |
 | ![](../../../.gitbook/assets/concentratedtreesap.png) [Concentrated Tree Sap](../materials/concentrated-tree-sap.md) | 250,000 |
 
