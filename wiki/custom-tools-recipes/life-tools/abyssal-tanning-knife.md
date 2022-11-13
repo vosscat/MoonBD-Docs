@@ -17,4 +17,4 @@ You can enhance this tool with <img src="../../../.gitbook/assets/unknown.png" a
 | ![](../../../.gitbook/assets/00004915.png) [Manos Stone](https://bdocodex.com/us/item/4915/)                        | 10,000    |
 | ![](../../../.gitbook/assets/00006163.png) [Fine Thick Fur](https://bdocodex.com/us/item/6163/)                     | 1,000,000 |
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tanning.png" alt=""><figcaption></figcaption></figure>

@@ -7,18 +7,18 @@
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ear.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/neck.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/belt.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ring.png" alt=""><figcaption></figcaption></figure>
 
 </div>

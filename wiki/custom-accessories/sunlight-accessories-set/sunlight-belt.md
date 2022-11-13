@@ -17,5 +17,5 @@ To reform your accessory to "Tidal" or "Nightfallen" [Visit Here](../../custom-t
 | ![](../../../.gitbook/assets/图片6.png) PEN: [Valtarra Eclipsed Belt](https://bdocodex.com/us/item/12236/#5)                        | 1   |
 | ![](../../../.gitbook/assets/CONC\_SUNLIGHT\_ENERGY\_copy.png) [Concentrated Sunlight's Energy](concentrated-sunlights-energy.md) | 150 |
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/belt.png" alt=""><figcaption></figcaption></figure>
 

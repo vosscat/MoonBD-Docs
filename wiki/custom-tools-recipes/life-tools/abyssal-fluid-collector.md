@@ -17,4 +17,4 @@ You can enhance this tool with <img src="../../../.gitbook/assets/unknown.png" a
 | ![](../../../.gitbook/assets/00004915.png) [Manos Stone](https://bdocodex.com/us/item/4915/)                         | 10,000  |
 | ![](../../../.gitbook/assets/concentratedtreesap.png) [Concentrated Tree Sap](../materials/concentrated-tree-sap.md) | 250,000 |
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/fluid.png" alt=""><figcaption></figcaption></figure>

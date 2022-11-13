@@ -17,4 +17,4 @@ To reform your accessory to "Arboreal" [Visit Here](../../custom-tools-recipes/a
 | ![](../../../.gitbook/assets/图片13.png) PEN: [Narc Ear Accessory](https://bdocodex.com/us/item/550802/#5)                          | 1   |
 | ![](../../../.gitbook/assets/CONC\_SUNLIGHT\_ENERGY\_copy.png) [Concentrated Sunlight's Energy](concentrated-sunlights-energy.md) | 100 |
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ear.png" alt=""><figcaption></figcaption></figure>

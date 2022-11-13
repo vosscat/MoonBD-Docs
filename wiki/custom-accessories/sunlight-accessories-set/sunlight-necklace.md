@@ -17,4 +17,4 @@ To reform your accessory to "Moonlit" [Visit Here](../../custom-tools-recipes/ac
 | ![](../../../.gitbook/assets/图片7.png) PEN: [Ogre Ring](https://bdocodex.com/us/item/11607/#5) or ![](../../../.gitbook/assets/图片8.png) PEN: [Laytenn's Power Stone](https://bdocodex.com/us/item/11630/#5) | 1     |
 | ![](../../../.gitbook/assets/CONC\_SUNLIGHT\_ENERGY\_copy.png) [Concentrated Sunlight's Energy](concentrated-sunlights-energy.md)                                                                          | _150_ |
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/neck.png" alt=""><figcaption></figcaption></figure>

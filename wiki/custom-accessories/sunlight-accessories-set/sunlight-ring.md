@@ -17,4 +17,4 @@ To reform your accessory to "Starlit" or "Clouded" [Visit Here](../../custom-too
 | ![](<../../../.gitbook/assets/图片2 (1).png>) PEN: [Forest Ronaros Ring](https://bdocodex.com/us/item/12042/#5)                     | 1   |
 | ![](../../../.gitbook/assets/CONC\_SUNLIGHT\_ENERGY\_copy.png) [Concentrated Sunlight's Energy](concentrated-sunlights-energy.md) | 100 |
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ring.png" alt=""><figcaption></figcaption></figure>

@@ -17,4 +17,4 @@ You can enhance this tool with <img src="../../../.gitbook/assets/unknown.png" a
 | ![](../../../.gitbook/assets/00004915.png) [Manos Stone](https://bdocodex.com/us/item/4915/)                       | 10,000  |
 | ![](../../../.gitbook/assets/00008183.png) [Impeccably Polished Stone](https://bdocodex.com/us/item/8183/)         | 150,000 |
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/pickaxe.png" alt=""><figcaption></figcaption></figure>

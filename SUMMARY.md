@@ -82,6 +82,7 @@
   * [🚩 Battle Rewards](wiki/rewards/battle-rewards.md)
   * [📅 Daily Rewards](wiki/rewards/daily-rewards.md)
   * [📅 Daily Attendance Rewards](wiki/rewards/daily-attendance-rewards.md)
+  * [🗓 Daily Login Reward](wiki/rewards/daily-login-reward.md)
   * [⬆ Leveling Rewards](wiki/rewards/leveling-rewards.md)
   * [🪓 Monster Kills Count Reward](wiki/rewards/monster-kills-count-reward.md)
 * [📍 Teleport Scroll Locations](wiki/teleport-scroll-locations.md)
