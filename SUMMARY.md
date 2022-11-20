@@ -19,6 +19,7 @@
 
 * [⬇ Installation](join-moonbd/installation.md)
 * [🔰 First Time In Game](join-moonbd/first-time-in-game.md)
+* [📶 Exitlag! Guide](join-moonbd/exitlag-guide.md)
 
 ## Events
 
