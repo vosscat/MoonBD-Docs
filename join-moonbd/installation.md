@@ -1,19 +1,34 @@
-# ⬇ Installation Guide
+# ⬇ Installation
 
-{% hint style="info" %}
-You will need [**.NET 6.0**](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) installed on you pc in order to run the launcher correctly.
+{% hint style="danger" %}
+You must have [**.NET 6.0**](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) installed on you pc in order to run the launcher.
 {% endhint %}
 
-### _Full Server Files_
+### _1. Download MoonBD Launcher_
 
-* [**Download**](https://drive.google.com/file/d/11Fc4\_k815pQK0BVRiHmxWImb9OIINPcP/view?usp=share\_link) **** _(Google Drive)_
-* [**Download**](https://1fichier.com/?p9urut85qd1ziepk1xnl) **** _(1Fichier)_
+* Download the launcher from MoonBD discord #announcement channel.
 
-### _MoonBD Launcher_
+### _**2. Install MoonBD Client**_
 
-* ****[**Download**](https://cdn.discordapp.com/attachments/923190024466497556/1037886069162643507/MoonBDLauncher.zip)****
+#### &#x20;    1. Click Setting
 
-{% hint style="info" %}
-After download finish. You can simple extract the server files and launcher. If you encounter and issue please check [_**HERE**_](../about/faq/common-errors-and-fixes.md).
-{% endhint %}
+<figure><img src="../.gitbook/assets/QQ截图20221120224756.png" alt=""><figcaption></figcaption></figure>
 
+#### &#x20;    2. Download the Client by Check File Integrity
+
+
+
+<figure><img src="../.gitbook/assets/QQ截图20221120224808.png" alt=""><figcaption></figcaption></figure>
+
+### 3. Troubleshooting
+
+If your game crashes and having any problems follow these steps:
+
+1. Clear Cache folder in game folder.
+2. Delete MoonBDO Corsair in Documents (this will reset all of your settings).
+3. Go to launcher settings and select your language again.
+4. If you have font installed remove it.
+5. Go to launcher settings click on Check File Integrity. Let it check and update missing/corrupt files.
+6. Restarting your computer might help.
+
+For any other errors you can check [**HERE**](../about/faq/common-errors-and-fixes.md). If none of these helped, please contact dev for [_**support**_](../about/informations/discord.md).

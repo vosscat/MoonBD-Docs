@@ -8,6 +8,17 @@ You can contact developers for support by create a [Discord support ticket.](../
 ### _**Necessary files for solving problems before/after playing MoonBD**_
 
 * Download **** [**AIO Runtime Pack**](https://drive.google.com/file/d/1kPBubay0L5OBCDIe4FjoD90sqcavKs2K/view?usp=sharing) **** to avoid runtime,d3d9.dll and other .dll errors.
+
+### _If your game crashes and having any problems follow these steps:_
+
+1. Clear Cache folder in game folder
+2. Delete MoonBDO Corsair in Documents (this will reset all of your settings)
+3. Go to launcher settings and select your language again
+4. If you have font installed remove it
+5. Go to launcher settings click on Check File Integrity. Let it check and update missing/corrupt files
+6. Restarting your computer might help
+
+Most of the time these steps will solve your issue if your issue is not resolved create [support ticket](../informations/discord.md).
 {% endhint %}
 
 {% hint style="warning" %}
