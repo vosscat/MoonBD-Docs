@@ -8,8 +8,12 @@ You can contact developers for support by create a [Discord support ticket.](../
 ### _**Necessary files for solving problems before/after playing MoonBD**_
 
 * Download **** [**AIO Runtime Pack**](https://drive.google.com/file/d/1kPBubay0L5OBCDIe4FjoD90sqcavKs2K/view?usp=sharing) **** to avoid runtime,d3d9.dll and other .dll errors.
-* Download [**Bin64.zip**](https://drive.google.com/file/d/1yvp2cZ8E7--wbuq9LoOq4goKNwyNbgOK/view?usp=sharing) **** and extract into the MoonBD folder for solving the Authentication Error.
-* Download **** [**resource.ini**](https://drive.google.com/file/d/1RrMdgwPaa-CF3wYkEjjZ83GZRTHlVS7g/view?usp=sharing) **** and copy to MoonBD and bin64 folder for solving “Now Processing” error.
+{% endhint %}
+
+{% hint style="warning" %}
+### You need the .NET6.0 to run our latest launcher.
+
+* [Download .NET 6.0 HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.403-windows-x86-installer)
 {% endhint %}
 
 <details>

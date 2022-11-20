@@ -45,7 +45,7 @@
 * Custom Lifeskill Tool
   * [x] [Alustin's Alchemy Tool](../../wiki/custom-tools-recipes/life-tools/alustins-alchemy-tool.md) (32767 Durability)
   * [x] [Chef Finto's Cooking Utensil](../../wiki/custom-tools-recipes/life-tools/chef-fintos-cooking-utensil.md) (32767 Durability)
-  * [ ] Manos Fishing Rod (WIP)
-  * [ ] Custom Gathering Tool Set (WIP)
+  * [x] [Custom Gathering Tool Set](../../wiki/custom-tools-recipes/life-tools/)
+  * [ ] Custom Fishing Rod (WIP)
 
 ..and lots of benefits with [**MoonBD Premium**](moonbd-premium.md)!
