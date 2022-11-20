@@ -6,7 +6,7 @@ You must have [**.NET 6.0**](https://dotnet.microsoft.com/en-us/download/dotnet/
 
 ### _1. Download MoonBD Launcher_
 
-* Download the launcher from MoonBD discord #announcement channel.
+* [Download](http://136.243.173.43:48366/api/patch/downloadlauncher?ver=1.4)
 
 ### _**2. Install MoonBD Client**_
 
