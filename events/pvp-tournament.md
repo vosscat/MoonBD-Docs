@@ -18,5 +18,3 @@ PvP Tournament events are hosted by the GM. Normally it runs once per month and 
 * Arena of Arsha Reward Boxes
 
 <figure><img src="../.gitbook/assets/unknown (3).png" alt=""><figcaption><p>MoonBD PvP Tournament</p></figcaption></figure>
-
-{% embed url="https://challonge.com/tbn32zku/module" %}

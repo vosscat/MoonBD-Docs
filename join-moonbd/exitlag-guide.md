@@ -10,7 +10,7 @@
 
 <figure><img src="../.gitbook/assets/QQ截图20221120191500.png" alt=""><figcaption></figcaption></figure>
 
-#### 2. Select "_Black Desert Online_". Click _**Game Region**_ tab then choose a route. Normal people like to choose **DE Falkenstein** or **DE Frankfurt** cuz they are closer to game server. Then click **APPLY ROUTES**.
+#### 2. Select "_Black Desert Online_". Click _**Game Region**_ tab then choose a route (Most people chose **DE Falkenstein** or **DE Frankfurt** cuz they are closer to game server). Then click **APPLY ROUTES**.
 
 <figure><img src="../.gitbook/assets/QQ截图20221120194514.png" alt=""><figcaption></figcaption></figure>
 
