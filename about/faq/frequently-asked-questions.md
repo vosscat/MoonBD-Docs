@@ -18,28 +18,12 @@ No, season seems enabled but it is not you can not create season characters. Eve
 
 <details>
 
-<summary>My Game Is Crashing And Game Does Not Start. What Can I Do ?</summary>
-
-Before contacting us here what you can do:
-
-1. Make sure your antivirus is not blocking the game either disable it or make exceptions.
-2. Close Game Launcher from system tray if it is running.
-3. Go in MoonBD game folder delete Cache, Log, LiveGuard folders and the game launcher as well.
-4. Go in Documents and look for MoonBDO Corsair folder then delete it.
-5. Visit [**download**](https://moonbd.online/Download) page and download "_MoonBD Launcher and LiveGuard For Other Client_"
-6. Delete bin64 if you have and extract it inside game folder.
-7. Restart your computer then start game launcher and try to start the game.
-8. If you still have the problem, close launcher again if it is still running in system tray.
-9. Go into **** [**discord**](../informations/discord.md) **** and see _**#manual-patch**_ channel.
-10. Download latest manual patch and extract paz files inside paz folder inside game folder.
-11. Start launcher and try to start the game.
-12. If you stil having problems, contact us through discord with the logs inside Log folder inside game folder (make zip).
-
-</details>
-
-<details>
-
 <summary>LiveGuard Tells Me I Am Temporarely Banned. What Can I Do ?</summary>
+
+* Using any kind of macro apps running in the background
+* Any kind of botting or cheats&#x20;
+* If your antivirus is scanning game and tries to access, in order to fix this create exceptions for game folder&#x20;
+* If you have memory (RAM) cleaner app running in the background, it may cause temporary ban as well
 
 Check if you have macro apps running like mouse or keyboard, if so close them and try after 10 minutes. If the problem continues contact us through discord.
 
