@@ -26,12 +26,12 @@
 | _<mark style="color:red;">(NEW)</mark>_Sailing EXP Gain           | +2500%                           |
 | _<mark style="color:red;">(NEW)</mark>_Sailor EXP When Ship Moves | +200%                            |
 | Horse Wagon EXP                                                   | Unclarified                      |
-| Gathering Objects Respawn Time                                    | 30% Faster Than Default          |
-| Monster Respawn Time                                              | 30% Faster Than Default          |
+| Gathering Objects Respawn Time                                    | 30% Faster                       |
+| Monster Respawn Time                                              | 30% Faster                       |
 | Family Fame Silver Rewards                                        | x 600%                           |
-| Monster AP at Night                                               | From +30% To +70%                |
-| EXP From Monsters At Night                                        | From +50% To +200%               |
-| Drop Rate From Monsters At Night                                  | From +10% To +200%               |
+| Monster AP at Night                                               | +70%                             |
+| EXP From Monsters At Night                                        | +200%                            |
+| Drop Rate From Monsters At Night                                  | +200%                            |
 | Sailing EXP To Next Level                                         | -35%                             |
 | Barter EXP To Next Level                                          | -35%                             |
 | Guild Skill Point Exp                                             | +50%                             |
