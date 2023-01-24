@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # 🔛 Fughar Item Exchange
 
 {% hint style="success" %}
@@ -39,6 +43,7 @@ You can find Fughar in every city/town and exchange items with him.
 | <img src="../.gitbook/assets/00044416.png" alt="" data-size="line"> Lafi Bedmountain's Upgrade Compass Parts                                | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+120)  |
 | <img src="../.gitbook/assets/00044417.png" alt="" data-size="line"> Lafi Bedmountain's Upgrade Compass Parts                                | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+170)  |
 | <img src="../.gitbook/assets/00044418.png" alt="" data-size="line"> Lafi Bedmountain's Upgrade Compass Parts                                | <img src="../.gitbook/assets/00017800.png" alt="" data-size="line"> Advice of Valks (+250)  |
+|                                                                                                                                             |                                                                                             |
 {% endtab %}
 
 {% tab title="Valk's Cry" %}
